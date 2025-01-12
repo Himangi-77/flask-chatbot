@@ -1,0 +1,443 @@
+node,Full Name,Gender,Connector,High on Trust and Expertise Rank,Legal Entity,Tenure Band,email,link_score,interpersonal_score,support_score,manager_reciprocity,connected,rm_score,edges_between_node_and_manager,outdegree trust,outdegree energy,normalized_outdegree,normalized_frequency,node_reciprocity,friendship_score,Job Embeddedness,Engagement Category
+558656,Tahaseena Khan,Female,54,#N/A,Vrutti,5 - 6 Years,tahaseena@catalysts.org,0.522864701,0.3,0.8,0,1,0.366666667,3,2,3,0.005668934,1.625,0,0.004606009,0.298045792,Engaged
+558544,Sanjeev Pujar,Male,53,#N/A,Swasti,10 - 15 Years,sanjeev@catalysts.org,0.467129849,0.15,0.55,0,1,0.233333333,4,3,3,0.006802721,1.75,0.285714286,0.148809524,0.283090902,Engaged
+558328,Bhoopathy P,Male,52,#N/A,Swasti,10 - 15 Years,bhoopathy@catalysts.org,0.484226153,0,0,0,0,0,0,1,1,0.002267574,0.5,0,0.000566893,0.161597682,Engaged
+558270,Neha Bhat,Female,51,#N/A,Swasti,1 - 2 Years,neha.bhat@catalysts.org,0.503269052,0.75,0.6,1,1,0.783333333,4,2,1,0.003401361,1.25,0.25,0.12712585,0.471242745,Highly Engaged
+558425,Gayatri Jegannathan,Female,50,#N/A,Swasti,2 - 3 Years,gayathri.j@catalysts.org,0.447772533,0.5,0.75,0,1,0.416666667,5,3,4,0.007936508,1.75,0,0.006944444,0.290461215,Engaged
+558442,Ronak Kothari,Male,49,#N/A,Vrutti,1 - 2 Years,ronak@catalysts.org,0.551596247,0.7,0.5,1,1,0.733333333,3,4,0,0.004535147,1.875,0.333333333,0.170918367,0.485282649,Highly Engaged
+558478,Raman Kumar,Male,48,#N/A,Catalyst Management Services Pvt. Ltd.,6 - 10  Years,kumar@catalysts.org,0.330352898,0,0.75,0,1,0.25,3,0,2,0.002267574,0.875,0,0.000992063,0.193781654,Engaged
+558408,Rajesh Kanna,Male,47,#N/A,Vrutti,6 - 10  Years,rajesh@catalysts.org,0.496979184,0,0.6,1,1,0.533333333,2,1,1,0.002267574,0.5,0,0.000566893,0.34362647,Highly Engaged
+558534,Amit Gupta,Male,46,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,amit.g@catalysts.org,0.456653473,0,0,0,0,0,0,1,1,0.002267574,0.375,0,0.00042517,0.152359548,Engaged
+558557,Nitish Kumar,Male,45,#N/A,Catalyst Management Services Pvt. Ltd.,4 - 5 Years,nitish@catalysts.org,0.482636264,0,0,0,0,0,0,2,2,0.004535147,1.125,0.285714286,0.145408163,0.209348143,Engaged
+558619,Hareesh B S,Male,44,#N/A,Swasti,15 Years+,hareesh@catalysts.org,0.47118048,0,0.225,1,1,0.408333333,1,2,1,0.003401361,0.875,0.444444444,0.223710317,0.367741377,Highly Engaged
+558504,Beauty Kumari,Female,43,#N/A,Swasti,3 - 4 Years,beauty@catalysts.org,0.485744625,0.575,0.75,0,1,0.441666667,5,2,1,0.003401361,0.875,0,0.001488095,0.309633129,Highly Engaged
+558427,Adarsh Samal,Male,42,#N/A,Swasti,2 - 3 Years,adarsh.s@catalysts.org,0.548005834,0,0.5,1,1,0.5,2,0,0,0,0,0,0,0.349335278,Highly Engaged
+558435,Sana Thapa,Female,41,#N/A,Swasti,1 - 2 Years,sana.thapa@catalysts.org,0.51219442,0.75,0.75,1,1,0.833333333,5,3,3,0.006802721,2,0.4,0.206802721,0.517443492,Highly Engaged
+558343,Atul Kapoor,Male,40,#N/A,Swasti,2 - 3 Years,atul.k@catalysts.org,0.480796111,0.325,0.55,1,1,0.625,5,1,1,0.002267574,0.375,0,0.00042517,0.368740427,Highly Engaged
+558543,Narayanagowda K V,Male,39,#N/A,Swasti,6 - 10  Years,narayanagowda@catalysts.org,0.553581236,0.225,0.75,0,1,0.325,4,1,2,0.003401361,1.375,0.333333333,0.169005102,0.349195446,Highly Engaged
+558309,Giridhar Goud M. B,Male,38,#N/A,Vrutti,6 - 10  Years,giridhar@catalysts.org,0.496693122,0,0,0,0,0,0,0,0,0,0,0,0,0.165564374,Engaged
+558368,Amit Chouksey,Male,37,3,Swasti,4 - 5 Years,amitchouksey@catalysts.org,0.553727691,0.175,0.25,0,1,0.141666667,3,2,2,0.004535147,0.5,0.153846154,0.078056864,0.257817074,Engaged
+558562,Shrirupa Sengupta,Female,36,#N/A,Swasti,6 - 10  Years,shrirupa@catalysts.org,0.511412049,0.75,0.75,1,1,0.833333333,5,16,6,0.024943311,7.25,0.428571429,0.304705215,0.549816866,Highly Engaged
+558314,Lok Ranjith P,Male,35,#N/A,Vrutti,3 - 4 Years,lokranjith@catalysts.org,0.540826272,0,0.2,0,1,0.066666667,1,1,5,0.006802721,2.75,0.25,0.134353741,0.247282227,Engaged
+558416,Ashwini Bhat,Female,34,5,Swasti,6 - 10  Years,ashwini@catalysts.org,0.50519357,0,0.6,1,1,0.533333333,2,1,1,0.002267574,0.625,0.090909091,0.046163162,0.361563355,Highly Engaged
+558436,Nikhila Shastry,Female,33,#N/A,Catalyst Management Services Pvt. Ltd.,5 - 6 Years,nikhila@catalysts.org,0.505468401,0,0.375,0,1,0.125,1,2,0,0.002267574,0.625,0.307692308,0.154554771,0.26167439,Engaged
+558323,Ashish Rajvaidya,Male,32,#N/A,Vrutti,10 - 15 Years,ashishraj@catalysts.org,0.485340417,0,0.2,1,1,0.4,1,0,3,0.003401361,0.75,0,0.00127551,0.295538642,Engaged
+558358,Narayan Reddy,Male,31,#N/A,Vrutti,1 - 2 Years,narayan.r@catalysts.org,0.532335601,0.825,0,1,1,0.608333333,2,1,1,0.002267574,0.875,0,0.000992063,0.380553666,Highly Engaged
+558551,Nitin Kumar Sagar,Male,30,#N/A,Swasti,5 - 6 Years,nitin@catalysts.org,0.462920235,0,0.375,0,1,0.125,2,4,2,0.006802721,2,0.25,0.131802721,0.239907652,Engaged
+558437,Alron Chittedam,Male,29,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,alron@catalysts.org,0.566981041,1,1,1,1,1,5,5,3,0.009070295,3.625,0.571428571,0.302154195,0.623045079,Highly Engaged
+558667,Manjula Sondur,Female,28,#N/A,Vrutti,6 - 10  Years,manjula@catalysts.org,0.515335795,0.25,0.375,1,1,0.541666667,4,1,1,0.002267574,0.25,0,0.000283447,0.352428636,Highly Engaged
+558647,Awesz Bukhari,Male,27,#N/A,Swasti,4 - 5 Years,awesz@catalysts.org,0.568293726,1,1,0,1,0.666666667,5,1,1,0.002267574,1,0,0.001133787,0.412031393,Highly Engaged
+558561,Roshini A,Female,26,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,roshini.a@catalysts.org,0.524665763,0.75,0.8,0,1,0.516666667,5,11,4,0.017006803,5.75,0,0.048894558,0.363408996,Highly Engaged
+558486,Jeyaganesh K,Male,25,#N/A,Swasti,6 - 10  Years,jeyaganesh@catalysts.org,0.496037993,0,0.375,0,1,0.125,2,3,1,0.004535147,1.25,0,0.002834467,0.207957487,Engaged
+558525,Narayanaswamy Krishnan,Male,24,#N/A,Vrutti,6 - 10  Years,narayanan@catalysts.org,0.463520042,0,0.15,0,1,0.05,1,4,3,0.007936508,2.75,0,0.010912698,0.174810913,Engaged
+558473,K.Krishna Moorthy,Male,23,#N/A,Swasti,15 Years+,krishnamoorthy@catalysts.org,0.483669409,0,0.15,1,1,0.383333333,1,1,1,0.002267574,0.625,0.153846154,0.077631694,0.314878145,Highly Engaged
+558441,Johann Joseph Pallikunnath,Male,22,#N/A,Vrutti,Less than 1 Year,johann@catalysts.org,0.546294386,0,0.75,0,1,0.25,3,0,0,0,0,0,0,0.265431462,Engaged
+558271,Angela Chaudhuri,Female,21,#N/A,Swasti,15 Years+,angela@catalysts.org,0.509591259,0,0.4,0,1,0.133333333,2,3,9,0.013605442,3,0.6,0.320408163,0.321110919,Highly Engaged
+558443,Shaonli Chakraborty,Female,20,#N/A,Swasti,15 Years+,shaonli@catalysts.org,0.426617185,0.25,0.2,1,1,0.483333333,4,2,2,0.004535147,0.5,0.285714286,0.14399093,0.351313816,Highly Engaged
+558463,Nymisha Herrera Nimmagadda,Female,19,4,Swasti,1 - 2 Years,nymisha@catalysts.org,0.492653192,0,0.4,1,1,0.466666667,2,3,2,0.005668934,1.625,0.142857143,0.07603458,0.345118146,Highly Engaged
+558515,Ramakrishna R,Male,18,1,Vrutti,6 - 10  Years,ramakrishna.r@catalysts.org,0.570217576,0.225,0,1,1,0.408333333,1,1,3,0.004535147,1.125,0.142857143,0.073979592,0.3508435,Highly Engaged
+558621,Saurabh Agarwal,Male,17,#N/A,Swasti,4 - 5 Years,saurabh@catalysts.org,0.553134448,0,0.2,0,1,0.066666667,1,2,4,0.006802721,2,0.181818182,0.097711812,0.239170976,Engaged
+558299,Suraj Bhairannawar,Male,16,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,suraj@catalysts.org,0.539861681,0.3,1,1,1,0.766666667,4,12,4,0.01814059,6.5,0.470588235,0.294251034,0.533593127,Highly Engaged
+558459,Bharati T N,Female,15,#N/A,Vrutti,4 - 5 Years,bharati@catalysts.org,0.500301026,0,0.8,0,1,0.266666667,3,1,0,0.001133787,0.25,0.285714286,0.142998866,0.303322186,Highly Engaged
+558548,Harshal Tanawala,Male,14,#N/A,Swasti,3 - 4 Years,harshal@catalysts.org,0.533753779,0,0.15,1,1,0.383333333,1,0,1,0.001133787,0.25,0,0.000141723,0.305742945,Highly Engaged
+558565,Shankar A. G,Male,13,#N/A,Swasti,10 - 15 Years,shankar@catalysts.org,0.490060994,0,0.225,1,1,0.408333333,1,4,2,0.006802721,1.875,0.142857143,0.077806122,0.32540015,Highly Engaged
+558426,Sumitra Nandan Srivastava,Male,12,#N/A,Swasti,2 - 3 Years,sumitra.n@catalysts.org,0.519421465,1,0.875,1,1,0.958333333,5,6,2,0.009070295,3.5,0.181818182,0.106782107,0.528178968,Highly Engaged
+558432,Shiv Kumar,Male,11,2,Catalyst Management Services Pvt. Ltd.,15 Years+,shiv@catalysts.org,0.481316138,0,0,0,0,0,0,3,1,0.004535147,1.5,0.285714286,0.146258503,0.209191547,Engaged
+558474,Arya Raj,Female,10,#N/A,Swasti,2 - 3 Years,arya.raj@catalysts.org,0.518704129,0.7,1,1,1,0.9,4,5,1,0.006802721,2.25,0.428571429,0.221938776,0.546880968,Highly Engaged
+558456,Meha Sinha,Female,9,#N/A,Swasti,4 - 5 Years,meha@catalysts.org,0.55615788,0.15,0.875,0,1,0.341666667,4,5,2,0.007936508,2.75,0,0.010912698,0.302912415,Highly Engaged
+558311,Narasimha Murthy,Male,8,#N/A,Vrutti,6 - 10  Years,murthy@catalysts.org,0.536588472,0,0.375,0,1,0.125,2,4,2,0.006802721,2.75,0.235294118,0.1270008,0.262863091,Engaged
+558694,Raghunathan N.,Male,7,#N/A,Catalyst Management Services Pvt. Ltd.,15 Years+,raghu@catalysts.org,0.446726413,0,0,0,0,0,0,1,1,0.002267574,0.625,0.333333333,0.167375283,0.204700565,Engaged
+558685,Raghini Badhrinarayanan,Female,6,#N/A,Vrutti,5 - 6 Years,raghini@catalysts.org,0.48477335,0,0.375,0,1,0.125,1,1,3,0.004535147,0.625,0,0.001417234,0.203730195,Engaged
+558417,Manoj Singh,Male,5,#N/A,Swasti,4 - 5 Years,manoj@catalysts.org,0.506033125,0,1,1,1,0.666666667,3,3,0,0.003401361,0.75,0.285714286,0.144132653,0.438944148,Highly Engaged
+558278,Seethalakshmi K,Female,4,#N/A,Vrutti,6 - 10  Years,seethalakshmi@catalysts.org,0.472430378,0,0.2,1,1,0.4,1,2,1,0.003401361,1,0,0.00170068,0.29137702,Engaged
+558387,Amit Sharma,Male,3,#N/A,Swasti,5 - 6 Years,amit.s@catalysts.org,0.511438876,0,0,0,0,0,0,0,0,0,0,0,0,0.170479625,Engaged
+558433,Arun Sivaramakrishnan,Male,2,#N/A,Catalyst Management Services Pvt. Ltd.,5 - 6 Years,arun@catalysts.org,0.453642978,0.225,0.75,1,1,0.658333333,4,3,3,0.006802721,1.875,0.5,0.256377551,0.456117954,Highly Engaged
+558421,Joseph Julian K.G,Male,1,#N/A,Swasti,15 Years+,julian@catalysts.org,0.506708239,0.675,0.3,1,1,0.658333333,4,8,4,0.013605442,3.5,0.142857143,0.095238095,0.420093222,Highly Engaged
+558588,Kamalkoli Majumdar,Female,0,#N/A,Swasti,1 - 2 Years,kamalkoli@catalysts.org,0.521692898,1,1,1,1,1,5,4,1,0.005668934,1.875,0.666666667,0.338647959,0.620113619,Highly Engaged
+558491,Suma Bhavana,Female,0,#N/A,Swasti,2 - 3 Years,suma.b@catalysts.org,0.494827098,1,0.925,1,1,0.975,5,3,1,0.004535147,1.625,0.666666667,0.337018141,0.602281746,Highly Engaged
+558510,Mariam Afsra Alam,Female,0,#N/A,Swasti,1 - 2 Years,mariam@catalysts.org,0.482998446,0.85,0.925,1,1,0.925,5,5,4,0.010204082,3,0.571428571,0.301020408,0.569672951,Highly Engaged
+558428,Abhirupa Kundu,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,abhirupa@catalysts.org,0.497947824,0.525,0.925,1,1,0.816666667,4,3,2,0.005668934,1.75,0.75,0.379960317,0.564858269,Highly Engaged
+558451,Khushwant Singh,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,5 - 6 Years,khushwant@catalysts.org,0.493013563,0.925,0.875,1,1,0.933333333,5,2,1,0.003401361,1.125,0.5,0.251913265,0.559420054,Highly Engaged
+558482,Booshan S,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,booshan@catalysts.org,0.512471655,0.75,0.625,1,1,0.791666667,5,4,3,0.007936508,2.5,0.666666667,0.343253968,0.549130763,Highly Engaged
+558567,M Surega,Female,0,#N/A,Swasti,2 - 3 Years,surega.m@catalysts.org,0.49566624,0.65,1,1,1,0.883333333,5,3,2,0.005668934,1.625,0.5,0.254606009,0.544535194,Highly Engaged
+558660,Moula J M,Male,0,#N/A,Vrutti,1 - 2 Years,moulajm1985@gmail.com,0.594104308,1,1,1,1,1,5,1,1,0.002267574,1,0,0.001133787,0.531746032,Highly Engaged
+558382,Priyansh Gandhi,Male,0,#N/A,Swasti,2 - 3 Years,priyansh.g@catalysts.org,0.534238745,0.65,1,1,1,0.883333333,5,3,4,0.007936508,2.625,0.333333333,0.177083333,0.531551804,Highly Engaged
+558400,Vivek Kumar,Male,0,#N/A,Swasti,2 - 3 Years,vivek.k@catalysts.org,0.574847647,1,1,1,1,1,5,1,1,0.002267574,1,0,0.001133787,0.525327145,Highly Engaged
+558683,Diwakar C,Male,0,#N/A,Vrutti,1 - 2 Years,divakarc7022@gmail.com,0.556689342,1,1,1,1,1,5,1,1,0.002267574,1,0,0.001133787,0.519274376,Highly Engaged
+558613,Ankit Makwana,Male,0,#N/A,Swasti,3 - 4 Years,ankit@catalysts.org,0.556958394,0.225,1,1,1,0.741666667,4,4,1,0.005668934,2.125,0.5,0.256023243,0.518216101,Highly Engaged
+558573,Kavitha M.N,Female,0,#N/A,Vrutti,5 - 6 Years,bagepallibau@gmail.com,0.531600876,1,1,1,1,1,5,1,1,0.002267574,1,0,0.001133787,0.510911554,Highly Engaged
+558659,Jennifer E,Female,0,#N/A,Vrutti,1 - 2 Years,jennifer.e@catalysts.org,0.560491308,1,0.875,1,1,0.958333333,5,5,2,0.007936508,3.375,0,0.013392857,0.510739166,Highly Engaged
+558540,Vani S,Female,0,#N/A,Swasti,5 - 6 Years,s.vani@catalysts.org,0.503968254,0.15,0.6,1,1,0.583333333,4,2,2,0.004535147,1.25,0.857142857,0.431405896,0.506235828,Highly Engaged
+558623,Gowthami C,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,3 - 4 Years,gowthami@catalysts.org,0.482190098,0.35,0.75,1,1,0.7,4,1,1,0.002267574,0.5,0.666666667,0.333900227,0.505363442,Highly Engaged
+558652,Kumar K,Male,0,#N/A,Swasti,3 - 4 Years,kumar.k@catalysts.org,0.558886054,0.825,1,0,1,0.608333333,5,3,2,0.005668934,2.25,0.666666667,0.339710884,0.502310091,Highly Engaged
+558609,Sneha Singh,Female,0,#N/A,Swasti,3 - 4 Years,sneha.singh@catalysts.org,0.564094388,0,0.8,1,1,0.6,3,2,2,0.004535147,2,0.666666667,0.337868481,0.500654289,Highly Engaged
+558655,Rashmirekha Barik,Female,0,#N/A,Swasti,2 - 3 Years,rashmirekha@catalysts.org,0.537456958,0,0.375,1,1,0.458333333,2,1,1,0.002267574,0.75,1,0.50085034,0.498880211,Highly Engaged
+558531,Sandip Wahane,Male,0,#N/A,Swasti,2 - 3 Years,sandip.w@catalysts.org,0.469765684,0.675,0.625,1,1,0.766666667,5,2,3,0.005668934,1.75,0.5,0.254960317,0.497130889,Highly Engaged
+558549,Krishnamurthy N,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,krishnamurthy.n@catalysts.org,0.462017726,0.5,0.8,1,1,0.766666667,5,5,3,0.009070295,2.5,0.5,0.261337868,0.496674087,Highly Engaged
+558539,Bhavyashree Jain,Female,0,#N/A,Swasti,4 - 5 Years,bhavyashree@catalysts.org,0.476835454,0,1,1,1,0.666666667,3,2,2,0.004535147,1.25,0.666666667,0.3361678,0.493223307,Highly Engaged
+558485,Ivanna Marie Bagul,Female,0,#N/A,Swasti,1 - 2 Years,ivanna@catalysts.org,0.465409003,0.675,0.75,1,1,0.808333333,5,3,2,0.005668934,1.5,0.4,0.204251701,0.492664679,Highly Engaged
+558454,Prerakkumar Shah,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,5 - 6 Years,prerak@catalysts.org,0.485692767,0.675,0.6,1,1,0.758333333,5,7,3,0.011337868,2.5,0.4,0.214172336,0.486066145,Highly Engaged
+558444,Syama B S,Female,0,5,Swasti,6 - 10  Years,syama@catalysts.org,0.475295544,0.675,0.8,1,1,0.825,5,6,2,0.009070295,2,0.285714286,0.151927438,0.484074327,Highly Engaged
+558627,Soumen Banerjee,Male,0,#N/A,Swasti,3 - 4 Years,soumen@catalysts.org,0.526655655,0.925,0.5,1,1,0.808333333,4,4,2,0.006802721,2.5,0.2,0.108503401,0.48116413,Highly Engaged
+558429,Sanchita Alaka,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,sanchita@catalysts.org,0.525628307,0.825,1,0,1,0.608333333,5,5,3,0.009070295,3.625,0.571428571,0.302154195,0.478705278,Highly Engaged
+558506,Vikas Dhake,Male,0,#N/A,Vrutti,1 - 2 Years,dhake.v@catalysts.org,0.54409637,0.225,0.925,1,1,0.716666667,4,1,1,0.002267574,0.75,0.333333333,0.167517007,0.476093348,Highly Engaged
+558604,Amanpreet Kour,Female,0,#N/A,Swasti,2 - 3 Years,rainaamanpreetkour@gmail.com,0.55481228,0.75,1,0,1,0.583333333,5,6,2,0.009070295,3.5,0.5,0.265873016,0.46800621,Highly Engaged
+558580,Retu Singh,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,retu.s@catalysts.org,0.488095238,0.225,0.75,1,1,0.658333333,4,3,1,0.004535147,1.375,0.5,0.253117914,0.466515495,Highly Engaged
+558471,Shreya Dutta,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,shreya.d@catalysts.org,0.451014594,0.075,0.75,1,1,0.608333333,4,2,1,0.003401361,0.875,0.666666667,0.334821429,0.464723119,Highly Engaged
+558461,Tanmaye Sai Rameneni,Female,0,#N/A,Swasti,1 - 2 Years,rameneni@catalysts.org,0.493220899,0.15,0.675,1,1,0.608333333,3,3,2,0.005668934,1.5,0.571428571,0.289965986,0.463840073,Highly Engaged
+558479,Akhila Parighi,Female,0,#N/A,Swasti,1 - 2 Years,akhila.p@catalysts.org,0.471760433,0.675,1,0,1,0.558333333,5,2,1,0.003401361,0.75,0.666666667,0.334608844,0.45490087,Highly Engaged
+558615,Lissy Retna Jesu Albert,Female,0,#N/A,Vrutti,1 - 2 Years,lissy@catalysts.org,0.498483998,0.15,0.8,1,1,0.65,4,2,3,0.005668934,1.75,0.4,0.204960317,0.451148105,Highly Engaged
+558600,Rahul Mudnale,Male,0,#N/A,Swasti,2 - 3 Years,rahulmudnale@gmail.com,0.52377803,0.85,0.75,0,1,0.533333333,5,4,2,0.006802721,2.5,0.571428571,0.294217687,0.450443017,Highly Engaged
+558662,Durairaj K,Male,0,#N/A,Vrutti,2 - 3 Years,durairajvrutti@gmail.com,0.525058579,0.15,0.45,1,1,0.533333333,3,2,4,0.006802721,1.875,0.571428571,0.292091837,0.45016125,Highly Engaged
+558572,Abhinav Kumar,Male,0,#N/A,Swasti,3 - 4 Years,abhinav@catalysts.org,0.484308567,0.5,0.675,1,1,0.725,4,2,3,0.005668934,1.375,0.25,0.128897392,0.446068653,Highly Engaged
+558608,Sahana V,Female,0,#N/A,Vrutti,Less than 1 Year,sahana.v@catalysts.org,0.526201814,0,0.925,0,1,0.308333333,3,1,1,0.002267574,0.75,1,0.50085034,0.445128496,Highly Engaged
+558419,Pujarani Sahoo,Female,0,#N/A,Swasti,3 - 4 Years,pujarani@catalysts.org,0.497600973,0.225,0.8,1,1,0.675,4,2,1,0.003401361,1,0.285714286,0.144557823,0.439052932,Highly Engaged
+558566,Aparna Suresh,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,aparna@catalysts.org,0.471542093,0.075,0.6,1,1,0.558333333,3,1,2,0.003401361,0.875,0.571428571,0.287202381,0.439025936,Highly Engaged
+558467,Bharath Kumar H E,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,bharath.h@catalysts.org,0.514141102,0.525,0.525,1,1,0.683333333,3,3,3,0.006802721,2.25,0.2,0.107653061,0.435042499,Highly Engaged
+558651,Priyamvada Tiwari,Female,0,#N/A,Swasti,10 - 15 Years,priyamvada@catalysts.org,0.449547468,0.15,0.375,1,1,0.508333333,4,1,2,0.003401361,1,0.666666667,0.335034014,0.430971605,Highly Engaged
+558284,Shruti Mittal,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,3 - 4 Years,shruti.rm@catalysts.org,0.492476697,0.525,0.225,1,1,0.583333333,2,6,1,0.007936508,2.625,0.4,0.210416667,0.428742232,Highly Engaged
+558579,Nethravathi .,Female,0,#N/A,Swasti,2 - 3 Years,nethravathi@catalysts.org,0.502364851,0,0.45,1,1,0.483333333,2,3,2,0.005668934,2.25,0.571428571,0.292091837,0.425930007,Highly Engaged
+558269,Savita B S,Female,0,#N/A,Swasti,2 - 3 Years,savithadeepabs@gmail.com,0.525445956,0.225,0.8,0,1,0.341666667,4,2,1,0.003401361,1.125,0.8,0.401913265,0.423008629,Highly Engaged
+558407,Sreejith S,Male,0,#N/A,Swasti,4 - 5 Years,sreejith@catalysts.org,0.600755858,1,1,0,1,0.666666667,5,1,1,0.002267574,1,0,0.001133787,0.422852104,Highly Engaged
+558559,Parmpratap Singh,Male,0,#N/A,Swasti,1 - 2 Years,parmpratap.s@catalysts.org,0.600755858,1,1,0,1,0.666666667,5,1,1,0.002267574,1,0,0.001133787,0.422852104,Highly Engaged
+558643,Mohan Kumar,Male,0,#N/A,Vrutti,3 - 4 Years,mohan.k@catalysts.org,0.499811036,0.3,1,1,1,0.766666667,4,0,2,0.002267574,0.625,0,0.000708617,0.42239544,Highly Engaged
+558477,Rajesh DA,Male,0,#N/A,Vrutti,6 - 10  Years,rajesh.da0902@gmail.com,0.565591669,0.525,0.2,1,1,0.575,2,1,1,0.002267574,0.625,0.25,0.125708617,0.422100095,Highly Engaged
+558383,Santosh Humane,Male,0,#N/A,Vrutti,Less than 1 Year,santosh.s@catalysts.org,0.565342666,0.225,1,0,1,0.408333333,4,3,2,0.005668934,1.625,0.571428571,0.290320295,0.421332098,Highly Engaged
+558697,Manoj Kher,Male,0,#N/A,Swasti,4 - 5 Years,manojkher@catalysts.org,0.559266797,0,0.5,1,1,0.5,1,2,2,0.004535147,2,0.4,0.204535147,0.421267315,Highly Engaged
+558260,Neelavathi M,Female,0,#N/A,Vrutti,2 - 3 Years,neelaprajwal@gmail.com,0.582199546,1,1,0,1,0.666666667,5,1,1,0.002267574,1,0,0.001133787,0.416666667,Highly Engaged
+558257,Vishal Singh,Male,0,#N/A,Swasti,3 - 4 Years,vishal.singh@catalysts.org,0.585079365,0.3,1,0,1,0.433333333,4,8,5,0.014739229,6.5,0.363636364,0.229720676,0.416044458,Highly Engaged
+558674,Priya Babu,Other,0,#N/A,Swasti,6 - 10  Years,priya@catalysts.org,0.511346369,0.575,0.625,1,1,0.733333333,5,2,2,0.004535147,1.25,0,0.002834467,0.415838056,Highly Engaged
+558622,Saurabh Srivastava,Male,0,#N/A,Swasti,2 - 3 Years,saurabh.s@catalysts.org,0.572982279,1,1,0,1,0.666666667,5,3,2,0.005668934,2.25,0,0.006377551,0.415342166,Highly Engaged
+558330,Harini D,Other,0,#N/A,Vrutti,1 - 2 Years,hbabusdk@gmail.com,0.570600907,1,1,0,1,0.666666667,5,1,2,0.003401361,1.5,0,0.00255102,0.413272865,Highly Engaged
+558490,Vedika Tikmani,Female,0,#N/A,Swasti,1 - 2 Years,vedika.t@catalysts.org,0.437568972,0.675,0.675,0,1,0.45,5,6,1,0.007936508,1.875,0.666666667,0.34077381,0.409447594,Highly Engaged
+558523,Vikash Tyagi,Male,0,#N/A,Swasti,4 - 5 Years,vikash@catalysts.org,0.559765871,1,1,0,1,0.666666667,5,1,1,0.002267574,1,0,0.001133787,0.409188775,Highly Engaged
+558541,Sunitha K P,Female,0,#N/A,Swasti,4 - 5 Years,sunitha@catalysts.org,0.557131005,0.7,0.7,0,1,0.466666667,3,2,2,0.004535147,1.625,0.4,0.203684807,0.409160826,Highly Engaged
+558492,Pavithra Thokamuri,Female,0,#N/A,Swasti,1 - 2 Years,pavithra.t@catalysts.org,0.481537059,0,0.625,1,1,0.541666667,3,1,1,0.002267574,0.875,0.4,0.200992063,0.408065263,Highly Engaged
+558680,Trilokee Nath Deshmukh,Male,0,#N/A,Vrutti,2 - 3 Years,trilokin27@gmail.com,0.570294785,0.925,1,0,1,0.641666667,5,1,1,0.002267574,0.875,0,0.000992063,0.404317838,Highly Engaged
+558507,Bhushan Nijai,Male,0,#N/A,Vrutti,1 - 2 Years,bhushan.y@catalysts.org,0.60271353,0.3,1,0,1,0.433333333,4,3,2,0.005668934,2.5,0.333333333,0.173752834,0.403266566,Highly Engaged
+558554,Ankita Joshi,Female,0,#N/A,Swasti,2 - 3 Years,ankita.p@catalysts.org,0.533159486,0.225,0.2,1,1,0.475,2,1,1,0.002267574,0.875,0.4,0.200992063,0.403050517,Highly Engaged
+558509,Priyanka Mhatre,Female,0,#N/A,Vrutti,1 - 2 Years,priyanka.m@catalysts.org,0.53288767,0,1,0,1,0.333333333,3,3,3,0.006802721,2.375,0.666666667,0.341411565,0.402544189,Highly Engaged
+558657,Purnima Ranawat,Female,0,#N/A,Swasti,1 - 2 Years,purnima@catalysts.org,0.418410501,0.6,0.75,1,1,0.783333333,5,6,2,0.009070295,1.25,0,0.005668934,0.402470923,Highly Engaged
+558542,Susheela R,Female,0,#N/A,Swasti,2 - 3 Years,susheela.r@catalysts.org,0.596324641,0.3,0.5,0,1,0.266666667,3,2,2,0.004535147,1.875,0.666666667,0.337585034,0.400192114,Highly Engaged
+558538,Evangelin Nightingale,Female,0,#N/A,Swasti,3 - 4 Years,evangelin@catalysts.org,0.472883598,0.35,0.825,1,1,0.725,4,2,1,0.003401361,0.75,0,0.00127551,0.399719703,Highly Engaged
+558555,Ahmed Amin,Male,0,#N/A,Swasti,4 - 5 Years,ahmed@catalysts.org,0.472787554,0.15,0.275,1,1,0.475,3,1,1,0.002267574,0.5,0.5,0.250566893,0.399451482,Highly Engaged
+558338,Ravneet Kaur,Female,0,#N/A,Swasti,3 - 4 Years,ravneet@catalysts.org,0.398778446,0.5,0.875,1,1,0.791666667,5,2,1,0.003401361,0.75,0,0.00127551,0.397240208,Highly Engaged
+558581,Immanuel Jeya Kumar,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,immanuel@catalysts.org,0.546142795,0.925,0.95,0,1,0.625,5,7,2,0.010204082,3.875,0,0.019770408,0.396971068,Highly Engaged
+558508,Pravin Thorat,Male,0,#N/A,Vrutti,1 - 2 Years,pravin.t@catalysts.org,0.581821618,0.3,1,0,1,0.433333333,4,2,2,0.004535147,2,0.333333333,0.171201814,0.395452255,Highly Engaged
+558583,Amulya R,Female,0,#N/A,Swasti,2 - 3 Years,amulya.r@catalysts.org,0.459293547,0.15,0.875,0,1,0.341666667,4,3,1,0.004535147,1.375,0.75,0.378117914,0.393026042,Highly Engaged
+558606,Pragya Sahu,Female,0,#N/A,Vrutti,1 - 2 Years,pragya.s@catalysts.org,0.536742252,0.5,0.8,0,1,0.433333333,5,2,1,0.003401361,0.875,0.4,0.201488095,0.390521227,Highly Engaged
+558658,Anshul Gupta,Male,0,#N/A,Swasti,4 - 5 Years,anshul@catalysts.org,0.545204502,1,0.875,0,1,0.625,5,1,1,0.002267574,1,0,0.001133787,0.390446096,Highly Engaged
+558469,Thangavelu R,Male,0,#N/A,Swasti,15 Years+,thanga@catalysts.org,0.457112724,0.225,0.425,1,1,0.55,4,2,2,0.004535147,1.25,0.307692308,0.156680621,0.387931115,Highly Engaged
+558468,Kajal K,Female,0,#N/A,Swasti,Less than 1 Year,kajal@catalysts.org,0.494472789,0,0.8,0,1,0.266666667,2,2,0,0.002267574,0.75,0.8,0.40085034,0.387329932,Highly Engaged
+558672,Jyoti Chaudhary,Female,0,#N/A,Swasti,3 - 4 Years,jyoti.c@catalysts.org,0.491780045,1,1,0,1,0.666666667,5,1,1,0.002267574,1,0,0.001133787,0.386526833,Highly Engaged
+558497,Nidhi Sharma,Female,0,#N/A,Swasti,2 - 3 Years,nidhi.s@catalysts.org,0.531356765,1,0.875,0,1,0.625,5,2,1,0.003401361,1.5,0,0.00255102,0.386302595,Highly Engaged
+558495,Chetan .,Male,0,#N/A,Vrutti,2 - 3 Years,vruttikgiacts@gmail.com,0.586829176,0.3,0.8,0,1,0.366666667,3,2,2,0.004535147,2,0.4,0.204535147,0.38601033,Highly Engaged
+558532,Sabhimanvi Dua,Female,0,#N/A,Swasti,4 - 5 Years,sabhimanvi@catalysts.org,0.466289683,0,0.4,1,1,0.466666667,2,2,0,0.002267574,0.625,0.444444444,0.222930839,0.385295729,Highly Engaged
+558262,Raghunath N,Male,0,#N/A,Vrutti,1 - 2 Years,raghunathraghurs2@gmail.com,0.48005375,1,1,0,1,0.666666667,5,1,1,0.002267574,1,0,0.001133787,0.382618068,Highly Engaged
+558285,Malavika Nambiar,Female,0,#N/A,Swasti,4 - 5 Years,malavika@catalysts.org,0.405290548,0.6,0.125,1,1,0.575,3,7,4,0.012471655,1.75,0.307692308,0.164758852,0.381683133,Highly Engaged
+558409,Raj Tiwari,Male,0,#N/A,Swasti,1 - 2 Years,raj.t@catalysts.org,0.530445956,0.825,1,0,1,0.608333333,5,3,2,0.005668934,1.875,0,0.005314626,0.381364638,Highly Engaged
+558597,Swatimayee Chhatoi,Female,0,#N/A,Swasti,Less than 1 Year,chhatoiswatimayee@gmail.com,0.577853364,0.225,0.7,0,1,0.308333333,3,2,2,0.004535147,1.875,0.5,0.254251701,0.380146133,Highly Engaged
+558512,Gaurav M D,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,gaurav.md@catalysts.org,0.489395314,0.15,0.8,1,1,0.65,4,0,1,0.001133787,0.25,0,0.000141723,0.379845679,Highly Engaged
+558625,Saran S,Male,0,#N/A,Swasti,2 - 3 Years,saran.s@catalysts.org,0.450182918,0,0.3,1,1,0.433333333,2,1,0,0.001133787,0.5,0.5,0.250283447,0.377933233,Highly Engaged
+558639,Harshvardhan Chauhan,Male,0,#N/A,Swasti,3 - 4 Years,harshvardhan@catalysts.org,0.558441701,0.3,0.925,0,1,0.408333333,4,5,2,0.007936508,3.125,0.307692308,0.166246947,0.377673994,Highly Engaged
+558591,Vruddhi Patel,Female,0,#N/A,Swasti,Less than 1 Year,vruddhi@catalysts.org,0.523053666,0.3,1,0,1,0.433333333,4,2,3,0.005668934,2.25,0.333333333,0.173044218,0.376477072,Highly Engaged
+558369,Rahul Kumar Gupta,Male,0,#N/A,Swasti,3 - 4 Years,rahul.k@catalysts.org,0.543419837,0.75,1,0,1,0.583333333,5,1,1,0.002267574,0.75,0,0.00085034,0.375867837,Highly Engaged
+558611,Akhila Bandari,Female,0,#N/A,Vrutti,1 - 2 Years,akhila.b@catalysts.org,0.538548753,0.75,1,0,1,0.583333333,5,1,1,0.002267574,0.75,0,0.00085034,0.374244142,Highly Engaged
+558448,Pravin Kumar Jaiswal,Male,0,#N/A,Swasti,2 - 3 Years,pravin.kj@catalysts.org,0.528773375,0.75,1,0,1,0.583333333,5,3,3,0.006802721,2,0,0.006802721,0.37296981,Highly Engaged
+558695,Ajith Rajan,Male,0,#N/A,Swasti,2 - 3 Years,ajith.r@catalysts.org,0.542273254,0.825,0.875,0,1,0.566666667,5,3,1,0.004535147,1.625,0,0.003684807,0.370874909,Highly Engaged
+558693,Prema S,Female,0,#N/A,Vrutti,Less than 1 Year,premaadss@gmail.com,0.601511716,1,0.5,0,1,0.5,4,1,1,0.002267574,1,0,0.001133787,0.367548501,Highly Engaged
+558610,Shivam Kesari,Male,0,#N/A,Swasti,3 - 4 Years,shivam@catalysts.org,0.519903628,0.3,1,0,1,0.433333333,4,3,1,0.004535147,1.75,0.285714286,0.146825397,0.366687453,Highly Engaged
+558514,Dharshini Sriram,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,dharshini.s@catalysts.org,0.498430277,0,0.8,1,1,0.6,3,0,0,0,0,0,0,0.366143426,Highly Engaged
+558598,Balachandra Moger,Male,0,#N/A,Swasti,4 - 5 Years,balachandra@catalysts.org,0.504535147,0,0.575,0,1,0.191666667,2,2,1,0.003401361,1.125,0.8,0.401913265,0.36603836,Highly Engaged
+558644,Kavitha Acharya,Female,0,#N/A,Vrutti,Less than 1 Year,kavitha@catalysts.org,0.485449735,0.825,1,0,1,0.608333333,5,1,1,0.002267574,0.875,0,0.000992063,0.364925044,Highly Engaged
+558273,Chandrika Gowda,Female,0,#N/A,Swasti,2 - 3 Years,chandrika.g@catalysts.org,0.484504913,0.575,0.25,1,1,0.608333333,3,1,1,0.002267574,0.625,0,0.000708617,0.364515621,Highly Engaged
+558310,Rahul Muraleedharan,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,rahul.m@catalysts.org,0.523138644,0.3,0.95,0,1,0.416666667,4,1,4,0.005668934,2.375,0.285714286,0.149589002,0.363131438,Highly Engaged
+558349,Nithya Elizabeth Abraham,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,4 - 5 Years,nithya.e@catalysts.org,0.474350127,0.525,0.8,0,1,0.441666667,4,4,2,0.006802721,1.875,0.333333333,0.173044218,0.363020337,Highly Engaged
+558470,Nikhilesh Unnikrishnan,Male,0,#N/A,Swasti,2 - 3 Years,nikhilesh.u@catalysts.org,0.506212207,0.35,0.8,0,1,0.383333333,4,6,3,0.010204082,3,0.352941176,0.191776711,0.36044075,Highly Engaged
+558267,Raji Avy,Female,0,#N/A,Swasti,3 - 4 Years,raji@catalysts.org,0.485051553,0.35,0,1,1,0.45,1,3,1,0.004535147,1.125,0.285714286,0.145408163,0.360153239,Highly Engaged
+558272,Lekhana D N,Female,0,#N/A,Vrutti,1 - 2 Years,lekhana@catalysts.org,0.477573696,0.3,0.5,0,1,0.266666667,3,1,1,0.002267574,0.625,0.666666667,0.33404195,0.359427438,Highly Engaged
+558633,Astha Bohra,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,astha.b@catalysts.org,0.444808376,0.5,0.375,1,1,0.625,4,5,3,0.009070295,1.625,0,0.007369615,0.35905933,Highly Engaged
+558476,Isha Math,Female,0,#N/A,Swasti,2 - 3 Years,isha@catalysts.org,0.505857899,0.7,0.3,0,1,0.333333333,2,5,1,0.006802721,2.75,0.444444444,0.231575964,0.356922399,Highly Engaged
+558430,Anuja Tripathi,Female,0,#N/A,Swasti,2 - 3 Years,anuja.t@catalysts.org,0.455736961,0,0.375,1,1,0.458333333,2,2,2,0.004535147,1,0.307692308,0.156113728,0.356728007,Highly Engaged
+558450,Vinothkumar Vanaraj,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,vinoth.k@catalysts.org,0.550317697,0.75,0.8,0,1,0.516666667,5,1,2,0.003401361,1.125,0,0.001913265,0.356299209,Highly Engaged
+558392,Tamizhazhagan J,Male,0,#N/A,Vrutti,2 - 3 Years,aapclvdk@gmail.com,0.557938608,0,0.5,1,1,0.5,1,3,3,0.006802721,2.625,0,0.008928571,0.355622393,Highly Engaged
+558665,Chandrababu B.N,Male,0,#N/A,Vrutti,5 - 6 Years,chandrababu2697@gmail.com,0.595616024,0.7,0.7,0,1,0.466666667,3,1,1,0.002267574,1,0,0.001133787,0.354472159,Highly Engaged
+558575,Gopal Reddy,Male,0,#N/A,Vrutti,3 - 4 Years,gopalreddyvrutti@gmail.com,0.531918224,0.825,0.75,0,1,0.525,5,3,1,0.004535147,1.75,0,0.003968254,0.353628826,Highly Engaged
+558446,Aanchal Upadhyay,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,aanchal@catalysts.org,0.507150958,0.525,0.375,0,1,0.3,2,4,0,0.004535147,1.5,0.5,0.253401361,0.35351744,Highly Engaged
+558687,Divya Bharti Netam,Female,0,#N/A,Vrutti,Less than 1 Year,divyabhartinetam14@gmail.com,0.554690098,0.225,0.525,0,1,0.25,3,1,2,0.003401361,1.375,0.5,0.252338435,0.352342845,Highly Engaged
+558618,Jayanta Dey,Male,0,#N/A,Swasti,2 - 3 Years,jayanta.d@catalysts.org,0.584845049,0.7,0.7,0,1,0.466666667,3,1,1,0.002267574,1,0,0.001133787,0.350881834,Highly Engaged
+558654,Nandini D A,Female,0,#N/A,Vrutti,1 - 2 Years,nandini@catalysts.org,0.513038549,0,0.6,1,1,0.533333333,2,1,1,0.002267574,0.625,0,0.000708617,0.349026833,Highly Engaged
+558415,Ashish Thakare,Male,0,#N/A,Vrutti,2 - 3 Years,ashish.t@catalysts.org,0.542615393,0,0.5,1,1,0.5,1,1,1,0.002267574,1,0,0.001133787,0.347916393,Highly Engaged
+558398,Someshwar Badge,Male,0,#N/A,Swasti,2 - 3 Years,someshwar.s@gmail.com,0.504535147,0.3,0.3,1,1,0.533333333,2,1,1,0.002267574,0.75,0,0.00085034,0.346239607,Highly Engaged
+558518,Pratibha Nam,Female,0,#N/A,Vrutti,1 - 2 Years,pratibha@catalysts.org,0.536105292,0,0.5,0,1,0.166666667,2,1,1,0.002267574,0.5,0.666666667,0.333900227,0.345557395,Highly Engaged
+558424,Puneet Upreti,Male,0,#N/A,Swasti,Less than 1 Year,puneet.u@catalysts.org,0.516108831,0.75,0.8,0,1,0.516666667,5,1,3,0.004535147,1.5,0,0.003401361,0.345392286,Highly Engaged
+558686,Devki pujari,Female,0,#N/A,Vrutti,Less than 1 Year,pujaridevaki236@gmail.com,0.601511716,0.3,1,0,1,0.433333333,4,1,1,0.002267574,1,0,0.001133787,0.345326279,Highly Engaged
+558690,Savita .,Female,0,#N/A,Vrutti,Less than 1 Year,gmdodamani16@gmail.com,0.601511716,0.3,1,0,1,0.433333333,4,1,1,0.002267574,1,0,0.001133787,0.345326279,Highly Engaged
+558321,Dipesh Choudhary,Male,0,#N/A,Swasti,1 - 2 Years,dipesh.c@catalysts.org,0.557868481,0,0.425,0,1,0.141666667,2,1,1,0.002267574,0.625,0.666666667,0.33404195,0.344525699,Highly Engaged
+558440,Priya Prabhakaran,Female,0,#N/A,Swasti,5 - 6 Years,priyanair@catalysts.org,0.494986547,0,0.6,0,1,0.2,2,2,1,0.003401361,0.875,0.666666667,0.334821429,0.343269325,Highly Engaged
+558261,Ashok M C,Male,0,#N/A,Vrutti,3 - 4 Years,ashokamc0593@gmail.com,0.484315949,0.75,0.875,0,1,0.541666667,5,2,2,0.004535147,1.375,0,0.003117914,0.34303351,Highly Engaged
+558380,Bhagvath Chandra,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,3 - 4 Years,bhagvath@catalysts.org,0.443741497,0,0.25,1,1,0.416666667,1,3,0,0.003401361,0.75,0.333333333,0.167942177,0.342783447,Highly Engaged
+558629,Pavan Sindhu Kumar,Male,0,#N/A,Swasti,2 - 3 Years,pavan.sk@catalysts.org,0.522675737,0.75,0.75,0,1,0.5,5,1,1,0.002267574,0.75,0,0.00085034,0.341175359,Highly Engaged
+558620,Lokeshwari Patel,Female,0,#N/A,Vrutti,1 - 2 Years,misbalod@catalysts.org,0.520240195,0.75,0.75,0,1,0.5,5,1,1,0.002267574,0.75,0,0.00085034,0.340363512,Highly Engaged
+558423,Sunayana Sharma,Female,0,#N/A,Vrutti,Less than 1 Year,sunayana@catalysts.org,0.486394558,0,0.6,1,1,0.533333333,2,1,1,0.002267574,0.625,0,0.000708617,0.340145503,Highly Engaged
+558502,Kalpana Reddy,Female,0,#N/A,Vrutti,6 - 10  Years,kalpanareddychintu@gmail.com,0.518624339,0,0.5,1,1,0.5,2,0,1,0.001133787,0.25,0,0.000141723,0.339588687,Highly Engaged
+558556,Lovely Bhatt,Female,0,#N/A,Swasti,Less than 1 Year,shinningaayu75@gmail.com,0.517422525,0.75,0.75,0,1,0.5,5,1,1,0.002267574,0.75,0,0.00085034,0.339424288,Highly Engaged
+558648,Manvi Chaudhary,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,Less than 1 Year,manvi@catalysts.org,0.489329412,0,0.375,0,1,0.125,1,2,1,0.003401361,1.25,0.8,0.40212585,0.338818421,Highly Engaged
+558307,Umashankar K,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,umashankar@catalysts.org,0.485487259,0.15,0.425,1,1,0.525,3,0,1,0.001133787,0.25,0,0.000141723,0.336876327,Highly Engaged
+558418,Sanjana B A,Female,0,#N/A,Swasti,3 - 4 Years,sanjana@catalysts.org,0.467214664,0.5,0.525,0,1,0.341666667,4,5,3,0.009070295,2.375,0.363636364,0.192589157,0.333823496,Highly Engaged
+558628,Mohd Masood,Male,0,#N/A,Swasti,1 - 2 Years,masood@catalysts.org,0.484562696,0.65,0.875,0,1,0.508333333,5,1,1,0.002267574,0.75,0,0.00085034,0.33124879,Highly Engaged
+558458,Parvi Lakha,Female,0,#N/A,Swasti,3 - 4 Years,parvi@catalysts.org,0.497754657,0.225,0.8,0,1,0.341666667,4,4,3,0.007936508,2.25,0.285714286,0.151785714,0.330402346,Highly Engaged
+558511,Reshma Tohake,Female,0,#N/A,Vrutti,Less than 1 Year,reshma@catalysts.org,0.555219619,0.3,1,0,1,0.433333333,4,2,1,0.003401361,1.5,0,0.00255102,0.330367991,Highly Engaged
+558308,Kiran Kumar,Male,0,#N/A,Vrutti,1 - 2 Years,kiran.k@catalysts.org,0.454610733,0.225,0.375,1,1,0.533333333,2,1,1,0.002267574,0.625,0,0.000708617,0.329550894,Highly Engaged
+558325,Sambit Kumar Nanda,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,10 - 15 Years,sambit@catalysts.org,0.50021353,0.575,0.875,0,1,0.483333333,5,2,2,0.004535147,1.25,0,0.002834467,0.328793777,Highly Engaged
+558675,Pankhuri Rai,Female,0,#N/A,Swasti,2 - 3 Years,pankhuri@catalysts.org,0.483896028,0.5,0,1,1,0.5,2,1,1,0.002267574,0.5,0,0.000566893,0.328154307,Highly Engaged
+558447,Rashi Nandwani,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,rashi@catalysts.org,0.457385569,0,0.375,0,1,0.125,2,2,1,0.003401361,0.875,0.8,0.401488095,0.327957888,Highly Engaged
+558297,Anuj Awasthi,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,anuj.a@catalysts.org,0.479076174,0.15,0.5,0,1,0.216666667,4,5,3,0.009070295,2.5,0.545454545,0.284065141,0.326602661,Highly Engaged
+558670,Aditya Pangaria,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,4 - 5 Years,aditya.p@catalysts.org,0.485992443,0,0.475,1,1,0.491666667,2,1,1,0.002267574,1,0,0.001133787,0.326264299,Highly Engaged
+558677,Rahul Tiwari,Male,0,#N/A,Swasti,4 - 5 Years,rahul@catalysts.org,0.537868481,0,0.3,0,1,0.1,1,1,1,0.002267574,0.875,0.666666667,0.334325397,0.324064626,Highly Engaged
+558571,Babu George,Male,0,#N/A,Swasti,4 - 5 Years,babu@catalysts.org,0.453420257,0.75,0.8,0,1,0.516666667,5,1,2,0.003401361,1,0,0.00170068,0.323929201,Highly Engaged
+558692,Nanjamma N,Female,0,#N/A,Vrutti,Less than 1 Year,nanjamman78@gmail.com,0.56893424,1,0.2,0,1,0.4,3,1,1,0.002267574,1,0,0.001133787,0.323356009,Highly Engaged
+558322,Mithlesh Malviya,Male,0,#N/A,Swasti,1 - 2 Years,mithlesh@catalysts.org,0.555862623,0.525,0.7,0,1,0.408333333,3,1,1,0.002267574,0.75,0,0.00085034,0.321682099,Highly Engaged
+558341,Predun Choudhary,Male,0,#N/A,Swasti,2 - 3 Years,predun@catalysts.org,0.555461073,0.225,0,0,1,0.075,1,1,1,0.002267574,0.875,0.666666667,0.334325397,0.32159549,Highly Engaged
+558617,Bharath Naik,Male,0,#N/A,Swasti,3 - 4 Years,bharath@catalysts.org,0.511337868,0.225,0.5,0,1,0.241666667,3,5,2,0.007936508,2.5,0.4,0.209920635,0.320975057,Highly Engaged
+558480,Rahee Mujumdar,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,rahee.m@catalysts.org,0.483114488,0,0.925,0,1,0.308333333,3,1,0,0.001133787,0.375,0.333333333,0.166879252,0.319442358,Highly Engaged
+558535,Manohar Darpe,Male,0,#N/A,Vrutti,Less than 1 Year,manohar@catalysts.org,0.553949358,0.7,0.5,0,1,0.4,2,1,1,0.002267574,0.875,0,0.000992063,0.318313807,Highly Engaged
+558520,Syeda Shabaaz,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,3 - 4 Years,syeda@catalysts.org,0.435798929,0.15,0.4,1,1,0.516666667,3,0,4,0.004535147,1,0,0.002267574,0.31824439,Highly Engaged
+558465,Adepu Madhukar,Male,0,#N/A,Vrutti,2 - 3 Years,madhukar.a@catalysts.org,0.554705215,0,0.2,1,1,0.4,1,0,0,0,0,0,0,0.318235072,Highly Engaged
+558587,Jayshree Rao,Female,0,#N/A,Swasti,1 - 2 Years,jayshree@catalysts.org,0.553469388,0,0.2,1,1,0.4,1,1,1,0.002267574,0.875,0,0.000992063,0.318153817,Highly Engaged
+558574,Lakshmi K S,Female,0,#N/A,Vrutti,3 - 4 Years,lakshmi11293@gmail.com,0.542996686,0.225,1,0,1,0.408333333,4,2,1,0.003401361,1.125,0,0.001913265,0.317747761,Highly Engaged
+558483,Shashikala D,Female,0,#N/A,Swasti,5 - 6 Years,shashikala@catalysts.org,0.47235887,0.5,0.925,0,1,0.475,5,1,3,0.004535147,0.75,0,0.00170068,0.316353183,Highly Engaged
+558521,Pramila Peter,Female,0,#N/A,Vrutti,1 - 2 Years,pramila.p@catalysts.org,0.495323129,0.65,0.7,0,1,0.45,5,2,2,0.004535147,1.5,0,0.003401361,0.316241497,Highly Engaged
+558353,Shiva Keshavulu,Male,0,#N/A,Swasti,2 - 3 Years,shiva.k@catalysts.org,0.5531935,0.3,0.875,0,1,0.391666667,4,1,1,0.002267574,0.875,0,0.000992063,0.315284077,Highly Engaged
+558298,Rakesh B H,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,rakesh@catalysts.org,0.473167045,0,0.4,1,1,0.466666667,2,1,0,0.001133787,0.25,0,0.000141723,0.313325145,Highly Engaged
+558524,Ujjal Kumar Das,Male,0,#N/A,Swasti,Less than 1 Year,ujjal@catalysts.org,0.498110355,0.5,0.8,0,1,0.433333333,5,1,1,0.002267574,0.5,0,0.000566893,0.310670194,Highly Engaged
+558577,Sarvesh Singh Rajput,Male,0,#N/A,Swasti,2 - 3 Years,sarvesh.s@catalysts.org,0.51268424,0.75,0.5,0,1,0.416666667,5,1,2,0.003401361,1.25,0,0.00212585,0.310492252,Highly Engaged
+558547,Gagan Padival,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,10 - 15 Years,gagan@catalysts.org,0.452922129,0.5,0.3,0,1,0.266666667,4,4,3,0.007936508,2,0.4,0.207936508,0.309175101,Highly Engaged
+558460,Prabhakaran V,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,prabhakaran.v@catalysts.org,0.510136054,0.525,0.7,0,1,0.408333333,3,3,1,0.004535147,1.5,0,0.003401361,0.307290249,Highly Engaged
+558475,Soumi Ghosh,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,3 - 4 Years,soumi@catalysts.org,0.456986961,0,0.625,0,1,0.208333333,3,3,1,0.004535147,1.375,0.5,0.253117914,0.30614607,Highly Engaged
+558650,Shivani Solanki,Female,0,#N/A,Swasti,2 - 3 Years,shivani.s@catalysts.org,0.575656455,0.3,0.65,0,1,0.316666667,3,4,5,0.010204082,4.375,0,0.022321429,0.304881517,Highly Engaged
+558339,Sonali Maheshwari,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,sonali.m@catalysts.org,0.489598738,0,0.275,1,1,0.425,2,0,0,0,0,0,0,0.304866246,Highly Engaged
+558457,Kedar Jani,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,kedar.j@catalysts.org,0.394621574,0.25,0.3,1,1,0.516666667,5,1,1,0.002267574,0.25,0,0.000283447,0.303857229,Highly Engaged
+558569,Amruta Vyavahare,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,amruta.v@catalysts.org,0.411216533,0,0,0,0,0,0,1,0,0.001133787,0.25,1,0.500141723,0.303786086,Highly Engaged
+558661,Anjineya D N,Female,0,#N/A,Vrutti,3 - 4 Years,anjidndn196@gmail.com,0.467422525,0.75,0.575,0,1,0.441666667,5,1,1,0.002267574,0.75,0,0.00085034,0.303313177,Highly Engaged
+558637,Pooja Trivedi,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,pooja.t@catalysts.org,0.49364158,0.225,0,1,1,0.408333333,1,1,1,0.002267574,0.75,0,0.00085034,0.300941751,Highly Engaged
+558586,Naveen Kumar,Male,0,#N/A,Vrutti,3 - 4 Years,naveennani5071@gmail.com,0.493218275,0.85,0.375,0,1,0.408333333,4,1,1,0.002267574,0.75,0,0.00085034,0.300800649,Highly Engaged
+558631,Radhika Nayyar,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,radhika.n@catalysts.org,0.466889225,0.5,0.8,0,1,0.433333333,4,2,1,0.003401361,0.625,0,0.001062925,0.300428494,Highly Engaged
+558682,Talari Sudhakar naidu,Male,0,#N/A,Vrutti,1 - 2 Years,talarisudhakar0963@gmail.com,0.595616024,0.7,0.2,0,1,0.3,2,2,1,0.003401361,1.5,0,0.00255102,0.299389015,Engaged
+558671,Muthukumar D,Male,0,#N/A,Swasti,4 - 5 Years,muthukumar@catalysts.org,0.556122449,0,1,0,1,0.333333333,3,1,1,0.002267574,0.75,0,0.00085034,0.296768707,Engaged
+558352,Bandana Rajbongshi,Female,0,#N/A,Swasti,Less than 1 Year,bandana@catalysts.org,0.553949358,0.3,0.7,0,1,0.333333333,3,1,1,0.002267574,0.875,0,0.000992063,0.296091585,Engaged
+558533,Narasimha Goud B N B,Male,0,#N/A,Vrutti,4 - 5 Years,narasimha.g@catalysts.org,0.507513228,0.825,0.3,0,1,0.375,3,3,2,0.005668934,1.875,0,0.005314626,0.295942618,Engaged
+558530,Daisy Chaudhary,Female,0,#N/A,Swasti,2 - 3 Years,daisy@catalysts.org,0.520023953,0.225,0.5,0,1,0.241666667,3,1,1,0.002267574,0.75,0.25,0.12585034,0.295846987,Engaged
+558550,Prashant Shukla,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,4 - 5 Years,prashant@catalysts.org,0.443289662,0,0.325,1,1,0.441666667,2,2,1,0.003401361,1,0,0.00170068,0.295552336,Engaged
+558668,Ayush Sharma,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,Less than 1 Year,ayush@catalysts.org,0.506046863,0.575,0.525,0,1,0.366666667,4,4,2,0.006802721,2.25,0,0.007653061,0.29345553,Engaged
+558638,Amarnath Sharma,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,amarnath@catalysts.org,0.46039086,0.25,1,0,1,0.416666667,5,1,1,0.002267574,0.25,0,0.000283447,0.292446991,Engaged
+558592,Abhishek KR,Male,0,#N/A,Swasti,2 - 3 Years,abhishek.kr@catalysts.org,0.498110355,0.225,0.875,0,1,0.366666667,4,4,3,0.007936508,2.625,0,0.010416667,0.29173123,Engaged
+558304,Ankith J,Male,0,#N/A,Swasti,2 - 3 Years,ankith.j@catalysts.org,0.490291005,0,0.15,1,1,0.383333333,1,1,1,0.002267574,0.625,0,0.000708617,0.291444318,Engaged
+558280,Rashmi Karody,Female,0,#N/A,Swasti,6 - 10  Years,rashmi@catalysts.org,0.379967115,0,0.475,1,1,0.491666667,2,1,1,0.002267574,0.25,0,0.000283447,0.290639076,Engaged
+558593,Malaya Kumar Sethi,Male,0,#N/A,Swasti,2 - 3 Years,malay.k@catalysts.org,0.505626942,0.5,0.575,0,1,0.358333333,4,2,2,0.004535147,1.125,0,0.00255102,0.288837099,Engaged
+558607,Tara Rana,Female,0,#N/A,Swasti,3 - 4 Years,tara@catalysts.org,0.40292706,0,0.375,1,1,0.458333333,1,1,1,0.002267574,0.5,0,0.000566893,0.287275762,Engaged
+558640,Meghna Singh,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,3 - 4 Years,meghna.singh@catalysts.org,0.430436086,0,0.525,0,1,0.175,2,2,0,0.002267574,0.625,0.5,0.250708617,0.285381568,Engaged
+558519,Badal Gowrdhan Budhe,Male,0,#N/A,Vrutti,3 - 4 Years,badal@catalysts.org,0.524761133,0.225,0.75,0,1,0.325,4,0,1,0.001133787,0.375,0,0.000212585,0.283324573,Engaged
+558453,Johnson T,Male,0,#N/A,Vrutti,3 - 4 Years,johnson@catalysts.org,0.465411943,0,0.15,1,1,0.383333333,1,1,0,0.001133787,0.125,0,7.09E-05,0.282938713,Engaged
+558259,Dayanand Choudhary,Male,0,#N/A,Swasti,1 - 2 Years,dayanand.c@catalysts.org,0.509117536,0,0.5,0,1,0.166666667,1,1,1,0.002267574,0.5,0.333333333,0.16723356,0.281005921,Engaged
+558570,Pawan Marbate,Male,0,#N/A,Vrutti,1 - 2 Years,pawan.m@catalysts.org,0.495975737,0.225,0.8,0,1,0.341666667,4,4,1,0.005668934,1.75,0,0.004960317,0.280867574,Engaged
+558500,Kartik Awasti,Male,0,#N/A,Swasti,2 - 3 Years,kartik.a@catalysts.org,0.458238851,0,0.15,1,1,0.383333333,1,1,1,0.002267574,0.625,0,0.000708617,0.280760267,Engaged
+558513,Megha Jain,Male,0,#N/A,Swasti,2 - 3 Years,megha.j@catalysts.org,0.509535147,0.225,0.75,0,1,0.325,4,3,1,0.004535147,1.5,0,0.003401361,0.279312169,Engaged
+558560,Shanthala M,Female,0,#N/A,Vrutti,6 - 10  Years,shantala@catalysts.org,0.422314605,0,0.225,1,1,0.408333333,1,1,0,0.001133787,0.125,0,7.09E-05,0.276906267,Engaged
+558589,Kriti Jeswal,Female,0,#N/A,Swasti,1 - 2 Years,kriti.j@catalysts.org,0.497913832,0.675,0.3,0,1,0.325,3,2,2,0.004535147,1.25,0,0.002834467,0.275249433,Engaged
+558545,Megha K,Female,0,#N/A,Swasti,3 - 4 Years,megha.k@catalysts.org,0.485260771,0,0,0,0,0,0,1,1,0.002267574,0.5,0.666666667,0.333900227,0.273053666,Engaged
+558438,Ramji Tripathi,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,ramji@catalysts.org,0.568178382,0.75,0,0,1,0.25,2,1,1,0.002267574,0.75,0,0.00085034,0.273009574,Engaged
+558673,Subramani B S,Male,0,#N/A,Swasti,2 - 3 Years,subramani.s@catalysts.org,0.547369177,0,0.8,0,1,0.266666667,2,3,1,0.004535147,2,0,0.004535147,0.272856997,Engaged
+558614,Sandeep P P,Male,0,#N/A,GREEN Foundation,Less than 1 Year,sandip.p@catalysts.org,0.542517007,0.3,0.5,0,1,0.266666667,3,2,3,0.005668934,1.875,0,0.005314626,0.271499433,Engaged
+558528,Nandeesh A G,Male,0,#N/A,Swasti,3 - 4 Years,nandeesh@catalysts.org,0.460575139,0.35,0.2,0,1,0.183333333,2,3,0,0.003401361,1,0.333333333,0.168367347,0.270758606,Engaged
+558679,Manoj Shrivastava,Male,0,#N/A,Vrutti,3 - 4 Years,manoj.s@catalysts.org,0.464004535,0,1,0,1,0.333333333,3,0,6,0.006802721,2.125,0,0.007227891,0.268188587,Engaged
+558634,Karabasappa .,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,10 - 15 Years,karabasappa@catalysts.org,0.372401738,0,0.275,1,1,0.425,2,1,1,0.002267574,0.25,0,0.000283447,0.265895062,Engaged
+558488,Naveen Soni,Male,0,#N/A,Swasti,4 - 5 Years,naveen@catalysts.org,0.493362623,0.7,0.2,0,1,0.3,2,2,1,0.003401361,1,0,0.00170068,0.265021101,Engaged
+558340,Meeta Sen,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,4 - 5 Years,meeta@catalysts.org,0.458526202,0,0,0,0,0,0,1,0,0.001133787,0.125,0.666666667,0.333404195,0.263976799,Engaged
+558449,Vishrut Shivkumar,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,vishrut@catalysts.org,0.502255642,0,0.15,0,1,0.05,1,5,3,0.009070295,3.125,0.444444444,0.236394558,0.2628834,Engaged
+558355,Kamala Bujurke,Female,0,#N/A,Vrutti,4 - 5 Years,mis.kalaburgi@gmail.com,0.543680319,0,0.225,0,1,0.075,1,1,1,0.002267574,0.75,0.333333333,0.167517007,0.262065775,Engaged
+558669,Puneet Sharma,Male,0,#N/A,Swasti,2 - 3 Years,puneet.sharma@catalysts.org,0.530612245,0.525,0.225,0,1,0.25,2,1,1,0.002267574,0.5,0,0.000566893,0.260393046,Engaged
+558689,Geeta Putti,Female,0,#N/A,Vrutti,Less than 1 Year,geetaputti11@gmail.com,0.536356765,0.525,0.2,0,1,0.241666667,2,1,1,0.002267574,0.875,0,0.000992063,0.259671832,Engaged
+558462,Pulast Kumar Sahu,Male,0,#N/A,Vrutti,Less than 1 Year,sanusahu.hunk@gmail.com,0.552267574,0,0.675,0,1,0.225,2,1,1,0.002267574,0.75,0,0.00085034,0.259372638,Engaged
+558578,Riya Gupta,Female,0,#N/A,Swasti,2 - 3 Years,riya.gupta@catalysts.org,0.475291005,0,0.3,0,1,0.1,1,1,1,0.002267574,0.75,0.4,0.20085034,0.258713782,Engaged
+558496,Ritika Gupta,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,6 - 10  Years,ritika@catalysts.org,0.439693726,0,0,0,0,0,0,2,0,0.002267574,0.25,0.666666667,0.33361678,0.257770169,Engaged
+558498,Nitin Sharma,Male,0,#N/A,Swasti,2 - 3 Years,nitin.sharma@catalysts.org,0.49874582,0.225,0,0,1,0.075,1,6,3,0.010204082,3.375,0.363636364,0.19903757,0.257594463,Engaged
+558501,Sathia Moorthy,Male,0,#N/A,Vrutti,6 - 10  Years,sathia@catalysts.org,0.369874339,0,0.2,1,1,0.4,1,0,0,0,0,0,0,0.25662478,Engaged
+558503,Prashant Eswal,Male,0,#N/A,Swasti,Less than 1 Year,prashant.e@catalysts.org,0.310445956,0,0.375,1,1,0.458333333,1,0,0,0,0,0,0,0.256259763,Engaged
+558595,Kunal Gupta,Male,0,#N/A,Swasti,2 - 3 Years,kunal.g@catalysts.org,0.500853135,0.525,0.225,0,1,0.25,2,5,2,0.007936508,3,0,0.011904762,0.254252632,Engaged
+558431,Aman Mateti,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,Less than 1 Year,aman@catalysts.org,0.468685009,0,0.875,0,1,0.291666667,3,0,2,0.002267574,0.5,0,0.000566893,0.253639523,Engaged
+558546,Abdul Latheef.,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,10 - 15 Years,latheef@catalysts.org,0.482813178,0,0.15,0,1,0.05,1,2,2,0.004535147,1.5,0.444444444,0.225623583,0.252812254,Engaged
+558527,Spriha Atray,Female,0,#N/A,Swasti,3 - 4 Years,spriha@catalysts.org,0.504871504,0,0.375,0,1,0.125,1,6,3,0.010204082,3.125,0.222222222,0.127054989,0.252308831,Engaged
+558472,Sumesh G,Male,0,#N/A,Swasti,Less than 1 Year,sumesh@catalysts.org,0.355488601,0,0.2,1,1,0.4,1,0,0,0,0,0,0,0.251829534,Engaged
+558599,Mamta Rani Jeena,Female,0,#N/A,Swasti,1 - 2 Years,mamta.j@catalysts.org,0.585600907,0.3,0.2,0,1,0.166666667,2,0,1,0.001133787,0.5,0,0.000283447,0.25085034,Engaged
+558576,Subhankar Shome,Male,0,#N/A,Swasti,2 - 3 Years,subhankar@catalysts.org,0.503779289,0.225,0.5,0,1,0.241666667,2,1,1,0.002267574,0.75,0,0.00085034,0.248765432,Engaged
+558290,Apoorva S,Female,0,#N/A,Vrutti,2 - 3 Years,apoorva.s@catalysts.org,0.545312898,0,0,0,0,0,0,1,0,0.001133787,0.25,0.4,0.200141723,0.248484874,Engaged
+558696,Mubbashir Ahmed,Male,0,#N/A,Swasti,1 - 2 Years,mubbashir@catalysts.org,0.46893424,0.425,0.375,0,1,0.266666667,3,1,1,0.002267574,0.375,0,0.00042517,0.245342026,Engaged
+558526,Sagar Chavhan,Male,0,#N/A,GREEN Foundation,1 - 2 Years,sagar.c@catalysts.org,0.465230537,0,0.8,0,1,0.266666667,3,0,1,0.001133787,0.125,0,7.09E-05,0.243989355,Engaged
+558676,Arushi Mishra,Female,0,#N/A,Swasti,1 - 2 Years,arushi.m@catalysts.org,0.504535147,0.15,0.525,0,1,0.225,3,1,1,0.002267574,0.625,0,0.000708617,0.243414588,Engaged
+558642,Falguni Singh,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,falguni@catalysts.org,0.44321027,0,0.25,0,1,0.083333333,1,3,2,0.005668934,1,0.4,0.202834467,0.243126024,Engaged
+558536,Nikita Deshpande,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,3 - 4 Years,nikita@catalysts.org,0.449240876,0.075,0.3,0,1,0.125,3,2,2,0.004535147,0.75,0.285714286,0.144557823,0.239599566,Engaged
+558481,Sathish K. N,Male,0,#N/A,Swasti,10 - 15 Years,sathish@catalysts.org,0.516432351,0,0.575,0,1,0.191666667,2,4,2,0.006802721,2.375,0,0.008078231,0.23872575,Engaged
+558630,Nila Bharathi,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,3 - 4 Years,nila@catalysts.org,0.448223734,0,0.8,0,1,0.266666667,2,0,0,0,0,0,0,0.2382968,Engaged
+558296,Basamma Ravi,Female,0,#N/A,Vrutti,Less than 1 Year,ravibassu8855@gmail.com,0.536356765,0.525,0,0,1,0.175,1,1,1,0.002267574,0.875,0,0.000992063,0.237449609,Engaged
+558594,Sweety Kumari,Male,0,#N/A,Swasti,1 - 2 Years,sweety.k@catalysts.org,0.444377356,0,0.8,0,1,0.266666667,3,1,1,0.002267574,0.75,0,0.00085034,0.237298121,Engaged
+558256,Anupam Chaurasia,Male,0,#N/A,Swasti,1 - 2 Years,anupam.c@catalysts.org,0.500419921,0,0,0,0,0,0,1,1,0.002267574,0.75,0.4,0.20085034,0.233756754,Engaged
+558263,Narasimhamurthy V,Male,0,#N/A,Vrutti,3 - 4 Years,narasimhamurthy181@gmail.com,0.461356765,0.15,0.55,0,1,0.233333333,4,1,1,0.002267574,0.625,0,0.000708617,0.231799572,Engaged
+558276,Swati K,Female,0,#N/A,Swasti,1 - 2 Years,swati.k@catalysts.org,0.501511716,0,0.575,0,1,0.191666667,2,1,0,0.001133787,0.375,0,0.000212585,0.231130322,Engaged
+558487,Revanth Venkatesan,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,revanth.v@catalysts.org,0.494378307,0.175,0.4,0,1,0.191666667,3,2,3,0.005668934,1.75,0,0.004960317,0.230335097,Engaged
+558294,Manjula SM,Female,0,#N/A,Swasti,Less than 1 Year,manjulasm5595@gmail.com,0.545235909,0,0.425,0,1,0.141666667,2,1,1,0.002267574,1,0,0.001133787,0.229345454,Engaged
+558605,Kabila Keerthivasans,Male,0,#N/A,Vrutti,Less than 1 Year,kabila@catalysts.org,0.519392899,0,0.5,0,1,0.166666667,2,1,1,0.002267574,1,0,0.001133787,0.229064451,Engaged
+558399,Parinaidu .,Male,0,#N/A,Swasti,6 - 10  Years,parinaidu@catalysts.org,0.448397082,0.15,0.55,0,1,0.233333333,4,4,2,0.006802721,1.5,0,0.005102041,0.228944152,Engaged
+558274,Amala H,Female,0,#N/A,Swasti,6 - 10  Years,amalamary130@gmail.com,0.503469388,0.525,0,0,1,0.175,1,1,1,0.002267574,0.625,0,0.000708617,0.226392668,Engaged
+558289,Archana S,Female,0,#N/A,Vrutti,1 - 2 Years,archanaskg1@gmail.com,0.470688711,0,0,0,0,0,0,2,2,0.004535147,1.125,0.4,0.20255102,0.224413244,Engaged
+558287,Sukanya R,Female,0,#N/A,Swasti,10 - 15 Years,sukanya@catalysts.org,0.501805661,0,0,0,0,0,0,1,1,0.002267574,0.75,0.333333333,0.167517007,0.223107556,Engaged
+558347,Mohd Shoaib,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,Less than 1 Year,shoaib.m@catalysts.org,0.538548753,0.225,0.15,0,1,0.125,2,1,1,0.002267574,0.625,0,0.000708617,0.221419123,Engaged
+558641,Jasinta Minj,Female,0,#N/A,Swasti,5 - 6 Years,jasintaminj890@gmail.com,0.491957672,0,0.5,0,1,0.166666667,2,3,1,0.004535147,1.375,0,0.003117914,0.220580751,Engaged
+558568,Mallikarjun Pasodi,Male,0,#N/A,Vrutti,6 - 10  Years,mallikarjunpasodi13@gmail.com,0.51893424,0.225,0.2,0,1,0.141666667,2,1,1,0.002267574,0.625,0,0.000708617,0.220436508,Engaged
+558494,Sandhya G.S,Female,0,#N/A,Swasti,10 - 15 Years,sandhya@catalysts.org,0.458526202,0,0,0,0,0,0,1,1,0.002267574,0.625,0.4,0.200708617,0.21974494,Engaged
+558646,Gurpreet Kaur,Female,0,#N/A,Swasti,1 - 2 Years,gurpreet@catalysts.org,0.464684639,0,0.575,0,1,0.191666667,2,1,1,0.002267574,0.625,0,0.000708617,0.219019974,Engaged
+558452,Pathinettampadian Malaisamy,Male,0,#N/A,Vrutti,1 - 2 Years,pathinettampadian@catalysts.org,0.530301398,0,0,0,0,0,0,5,2,0.007936508,2.625,0.222222222,0.121527778,0.217276392,Engaged
+558499,Muhammad Dhanish,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,muhammad@catalysts.org,0.447663549,0,0.6,0,1,0.2,2,4,1,0.005668934,1.375,0,0.003897392,0.217186981,Engaged
+558590,Aditi Shekhawat,Female,0,#N/A,Swasti,Less than 1 Year,aditi.s@catalysts.org,0.458624339,0.15,0.425,0,1,0.191666667,3,1,1,0.002267574,0.375,0,0.00042517,0.216905392,Engaged
+558612,Suresh Garagatti,Male,0,#N/A,Swasti,6 - 10  Years,suresh@catalysts.org,0.492658128,0.225,0.225,0,1,0.15,2,3,3,0.006802721,2,0,0.006802721,0.21648695,Engaged
+558522,Shruthi Bai R,Female,0,#N/A,Swasti,5 - 6 Years,shruthi@catalysts.org,0.475955972,0,0,0,0,0,0,3,1,0.004535147,1.75,0.333333333,0.170634921,0.215530297,Engaged
+558678,Rajarethinam P,Male,0,#N/A,Vrutti,3 - 4 Years,rajarethinam@catalysts.org,0.443023432,0,0.6,0,1,0.2,2,0,1,0.001133787,0.25,0,0.000141723,0.214388385,Engaged
+558283,Siddhi Mankad,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,15 Years+,siddhi@catalysts.org,0.46675404,0,0,0,0,0,0,4,3,0.007936508,1.5,0.307692308,0.159798535,0.208850858,Engaged
+558422,Payel Aich,Female,0,#N/A,Swasti,1 - 2 Years,payel@catalysts.org,0.431957672,0,0.575,0,1,0.191666667,2,1,1,0.002267574,0.5,0,0.000566893,0.208063744,Engaged
+558379,Nidhi Saraswat,Female,0,#N/A,Swasti,2 - 3 Years,nidhi.saraswat@catalysts.org,0.52069161,0,0.3,0,1,0.1,1,1,2,0.003401361,1.125,0,0.001913265,0.207534958,Engaged
+558632,Karthikeyan Elangeshwaran,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,4 - 5 Years,karthik@catalysts.org,0.491379684,0,0.375,0,1,0.125,2,2,1,0.003401361,1.25,0,0.00212585,0.206168511,Engaged
+558688,Trupti Telavane,Female,0,#N/A,Vrutti,1 - 2 Years,trupti@catalysts.org,0.486356765,0,0.375,0,1,0.125,1,1,1,0.002267574,0.5,0,0.000566893,0.203974553,Engaged
+558385,Nishtha Gupta,Female,0,#N/A,Swasti,3 - 4 Years,nishtha@catalysts.org,0.523809524,0,0.25,0,1,0.083333333,1,2,1,0.003401361,1.125,0,0.001913265,0.203018707,Engaged
+558434,Vishwanath H S,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,h.vishwanath@catalysts.org,0.430191085,0.15,0.35,0,1,0.166666667,3,0,2,0.002267574,0.5,0,0.000566893,0.199141548,Engaged
+558455,K Puneeth,Male,0,#N/A,Swasti,3 - 4 Years,puneeth.k@catalysts.org,0.425253212,0,0.5,0,1,0.166666667,3,3,1,0.004535147,1.625,0,0.003684807,0.198534895,Engaged
+558684,Abhilash A,Male,0,#N/A,Vrutti,1 - 2 Years,abilashabi607@gmail.com,0.594104308,0,0,0,0,0,0,1,1,0.002267574,1,0,0.001133787,0.198412698,Engaged
+558558,Md. Shoaib Rahman,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,Less than 1 Year,shoaib.r@catalysts.org,0.467392374,0,0.375,0,1,0.125,1,0,1,0.001133787,0.125,0,7.09E-05,0.197487745,Engaged
+558681,Sanjay Kumar,Male,0,#N/A,Vrutti,1 - 2 Years,sanjay.k@catalysts.org,0.488853332,0,0.3,0,1,0.1,1,1,1,0.002267574,1,0,0.001133787,0.196662373,Engaged
+558552,Deepali Tijore,Female,0,#N/A,Vrutti,Less than 1 Year,deepali@catalysts.org,0.522345049,0,0.2,0,1,0.066666667,1,0,1,0.001133787,0.375,0,0.000212585,0.1964081,Engaged
+558386,Gaurav Gupta,Male,0,#N/A,Swasti,3 - 4 Years,gaurav@catalysts.org,0.587112623,0,0,0,0,0,0,1,1,0.002267574,1,0,0.001133787,0.196082137,Engaged
+558664,Manjula T N,Female,0,#N/A,Vrutti,1 - 2 Years,manjulamanjula1075@gmail.com,0.583238851,0,0,0,0,0,0,1,1,0.002267574,1,0,0.001133787,0.194790879,Engaged
+558663,Dodda Madamma Byayanna,Female,0,#N/A,Vrutti,1 - 2 Years,doddamadamma1973@gmail.com,0.58021542,0,0,0,0,0,0,1,1,0.002267574,1,0,0.001133787,0.193783069,Engaged
+558582,Giriraj U,Male,0,#N/A,Swasti,2 - 3 Years,giriraj@catalysts.org,0.473624339,0,0.3,0,1,0.1,1,1,1,0.002267574,0.75,0,0.00085034,0.19149156,Engaged
+558645,Divya Singh Gaur,Female,0,#N/A,Swasti,3 - 4 Years,divya.singh@catalysts.org,0.446477702,0,0.375,0,1,0.125,2,1,1,0.002267574,0.875,0,0.000992063,0.190823255,Engaged
+558378,Omprakash Boyina,Male,0,#N/A,Vrutti,Less than 1 Year,omprakash949161@gmail.com,0.567422525,0,0,0,0,0,0,1,1,0.002267574,0.75,0,0.00085034,0.189424288,Engaged
+558305,Saloman J,Male,0,#N/A,Swasti,6 - 10  Years,solomanstivan51@gmail.com,0.566326531,0,0,0,0,0,0,1,1,0.002267574,0.75,0,0.00085034,0.189058957,Engaged
+558653,Sukriti Ojha,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,sukriti@catalysts.org,0.358701814,0,0.625,0,1,0.208333333,3,0,0,0,0,0,0,0.189011716,Engaged
+558563,Lokesh Derangula,Male,0,#N/A,Swasti,2 - 3 Years,lokesh.d@catalysts.org,0.464555103,0.15,0.15,0,1,0.1,2,1,1,0.002267574,0.5,0,0.000566893,0.188373999,Engaged
+558291,Sangeetha S,Female,0,#N/A,Swasti,5 - 6 Years,sangeetha@catalysts.org,0.380832741,0.35,0.2,0,1,0.183333333,2,2,0,0.002267574,0.5,0,0.000566893,0.188244322,Engaged
+558337,Ritu Chaudhary,Female,0,#N/A,Swasti,2 - 3 Years,ritu.c@catalysts.org,0.561696901,0,0,0,0,0,0,0,0,0,0,0,0,0.1872323,Engaged
+558381,Abhishek Deshmukh,Male,0,#N/A,Vrutti,Less than 1 Year,abhishek.d@catalysts.org,0.50967918,0,0.15,0,1,0.05,1,2,0,0.002267574,0.875,0,0.000992063,0.186890415,Engaged
+558603,Sonam Choudhary,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,sonam.c@catalysts.org,0.558390023,0,0,0,0,0,0,1,1,0.002267574,1,0,0.001133787,0.186507937,Engaged
+558516,Aseem Kapoor,Male,0,#N/A,Swasti,2 - 3 Years,aseem.k@catalysts.org,0.456727135,0,0.3,0,1,0.1,2,1,1,0.002267574,0.5,0,0.000566893,0.185764676,Engaged
+558626,Heena Chawla,Female,0,#N/A,Swasti,2 - 3 Years,heena.c@catalysts.org,0.501133787,0.15,0,0,1,0.05,1,1,1,0.002267574,0.625,0,0.000708617,0.183947468,Engaged
+558529,Pankaja Y,Female,0,#N/A,Swasti,6 - 10  Years,pankaja@catalysts.org,0.523939437,0,0.075,0,1,0.025,1,1,2,0.003401361,0.875,0,0.001488095,0.183475844,Engaged
+558585,Rashee Bhat,Female,0,#N/A,Swasti,1 - 2 Years,rashee.b@catalysts.org,0.494118481,0.15,0,0,1,0.05,1,0,2,0.002267574,0.625,0,0.000708617,0.181609033,Engaged
+558636,Nayana H N,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,nayana@catalysts.org,0.415643327,0,0.35,0,1,0.116666667,2,2,3,0.005668934,1.5,0,0.004251701,0.178853898,Engaged
+558464,Pravin Bagde,Male,0,#N/A,Vrutti,3 - 4 Years,pravin@catalysts.org,0.484464101,0,0.15,0,1,0.05,1,0,0,0,0,0,0,0.1781547,Engaged
+558635,Subha R,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,15 Years+,subha@catalysts.org,0.41431213,0.075,0.275,0,1,0.116666667,3,2,2,0.004535147,0.5,0,0.001133787,0.177370861,Engaged
+558286,Sujatha Narasimhan,Female,0,#N/A,Swasti,1 - 2 Years,sujatha@catalysts.org,0.406334756,0,0.375,0,1,0.125,2,2,0,0.002267574,0.375,0,0.00042517,0.177253309,Engaged
+558616,Santosh Kumar,Male,0,#N/A,Swasti,5 - 6 Years,santosh.k@catalysts.org,0.421262283,0.175,0.15,0,1,0.108333333,2,2,1,0.003401361,0.75,0,0.00127551,0.176957042,Engaged
+558396,Durai Rajan,Male,0,#N/A,Vrutti,Less than 1 Year,mis.pudukottai@catalysts.org,0.530045351,0,0,0,0,0,0,0,0,0,0,0,0,0.176681784,Engaged
+558484,Pushpa M,Female,0,#N/A,Swasti,1 - 2 Years,pushpa.m@catalysts.org,0.484504913,0,0.125,0,1,0.041666667,1,1,1,0.002267574,1,0,0.001133787,0.175768456,Engaged
+558266,Manjula A,Female,0,#N/A,Vrutti,6 - 10  Years,manjulaa2901@gmail.com,0.409690098,0.35,0,0,1,0.116666667,1,1,1,0.002267574,0.5,0,0.000566893,0.175641219,Engaged
+558601,Priyanshu Rath,Male,0,#N/A,Swasti,Less than 1 Year,priyansurath2002@gmail.com,0.523100907,0,0,0,0,0,0,1,2,0.003401361,1.125,0,0.001913265,0.175004724,Engaged
+558388,Sasikala K,Female,0,#N/A,Vrutti,1 - 2 Years,g.sasikala8903@gmail.com,0.523100907,0,0,0,0,0,0,0,0,0,0,0,0,0.174366969,Engaged
+558596,Shanthamma R,Female,0,#N/A,Swasti,6 - 10  Years,ramiyasanna@gmail.com,0.46893424,0.15,0,0,1,0.05,1,1,1,0.002267574,0.5,0,0.000566893,0.173167045,Engaged
+558413,Suraj Bhorad,Male,0,#N/A,Vrutti,Less than 1 Year,surajbhorad@gmail.com,0.514195956,0,0,0,0,0,0,1,1,0.002267574,0.5,0,0.000566893,0.171587617,Engaged
+558445,Thammaiah Chottendamada Belliyappa,Male,0,#N/A,Vrutti,Less than 1 Year,thammaiah@catalysts.org,0.513488315,0,0,0,0,0,0,1,1,0.002267574,0.5,0,0.000566893,0.171351736,Engaged
+558493,Annapurna Chirravuri,Female,0,#N/A,Swasti,3 - 4 Years,annapurna@catalysts.org,0.430461073,0,0.25,0,1,0.083333333,1,1,0,0.001133787,0.125,0,7.09E-05,0.171288423,Engaged
+558350,Prakriti Srivastava,Female,0,#N/A,Swasti,3 - 4 Years,prakriti.s@catalysts.org,0.512282691,0,0,0,0,0,0,1,1,0.002267574,0.75,0,0.00085034,0.171044344,Engaged
+558505,Sachin Rao,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,sachin.r@catalysts.org,0.503023432,0,0,0,0,0,0,3,2,0.005668934,1.875,0,0.005314626,0.169446019,Engaged
+558357,Mahantappa Para,Male,0,#N/A,Vrutti,5 - 6 Years,mahanteshpara@gmail.com,0.505291005,0,0,0,0,0,0,1,1,0.002267574,0.375,0,0.00042517,0.168572058,Engaged
+558420,Sheril Sara Mathew,Female,0,#N/A,Vrutti,2 - 3 Years,sheril.sm@catalysts.org,0.503493164,0,0,0,0,0,0,1,1,0.002267574,1,0,0.001133787,0.168208984,Engaged
+558384,Advait Keni,Male,0,#N/A,Vrutti,1 - 2 Years,advait@catalysts.org,0.503779289,0,0,0,0,0,0,0,0,0,0,0,0,0.16792643,Engaged
+558584,Narasimhappa B,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,10 - 15 Years,narasimhappa@catalysts.org,0.503779289,0,0,0,0,0,0,0,0,0,0,0,0,0.16792643,Engaged
+558295,Deepa N,Female,0,#N/A,Swasti,Less than 1 Year,chanduchandunayak123@gmail.com,0.452267574,0.15,0,0,1,0.05,1,1,1,0.002267574,0.5,0,0.000566893,0.167611489,Engaged
+558342,Abhishek Jha,Male,0,#N/A,Swasti,2 - 3 Years,abhishek.jha@catalysts.org,0.501511716,0,0,0,0,0,0,0,0,0,0,0,0,0.167170572,Engaged
+558336,Meenakshi Gahlot,Female,0,#N/A,Swasti,2 - 3 Years,meenakshi.g@catalysts.org,0.439767574,0,0.175,0,1,0.058333333,2,2,2,0.004535147,1.25,0,0.002834467,0.166978458,Engaged
+558375,Madhava Krishna,Male,0,#N/A,Vrutti,1 - 2 Years,madhavakrishna2013@gmail.com,0.500755858,0,0,0,0,0,0,0,0,0,0,0,0,0.166918619,Engaged
+558691,Kavitha Chavan,Female,0,#N/A,Vrutti,2 - 3 Years,kavita.c@catalysts.org,0.498990221,0,0,0,0,0,0,1,2,0.003401361,0.875,0,0.001488095,0.166826105,Engaged
+558649,Sunitha Bai,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,sunitha.bai@catalysts.org,0.416798092,0,0.25,0,1,0.083333333,2,0,0,0,0,0,0,0.166710475,Engaged
+558393,Balaji Kumaravel,Male,0,#N/A,Vrutti,Less than 1 Year,balaji9524591736@gmail.com,0.494118481,0,0,0,0,0,0,0,0,0,0,0,0,0.16470616,Engaged
+558377,Adarsh Chowdhary,Male,0,#N/A,Vrutti,Less than 1 Year,adarsh.c@catalysts.org,0.492961073,0,0,0,0,0,0,1,0,0.001133787,0.25,0,0.000141723,0.164367599,Engaged
+558301,Chandrashekarappa C P,Male,0,#N/A,Fuzhio,10 - 15 Years,cpc@catalysts.org,0.492636054,0,0,0,0,0,0,0,0,0,0,0,0,0.164212018,Engaged
+558553,Bhagya Sowbhagyavathi,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,10 - 15 Years,bhagya@catalysts.org,0.399092971,0,0.275,0,1,0.091666667,2,1,0,0.001133787,0.375,0,0.000212585,0.163657407,Engaged
+558624,Kunal Middha,Male,0,#N/A,Swasti,4 - 5 Years,kunal.m@catalysts.org,0.487481104,0,0,0,0,0,0,3,1,0.004535147,1.5,0,0.003401361,0.163627488,Engaged
+558302,Krishna Murthy D C,Male,0,#N/A,Swasti,6 - 10  Years,dcmurthy@catalysts.org,0.449381713,0,0.1,0,1,0.033333333,1,1,1,0.002267574,0.5,0,0.000566893,0.16109398,Engaged
+558354,Babita Panwar,Female,0,#N/A,Swasti,2 - 3 Years,bp1505238@gmail.com,0.482993197,0,0,0,0,0,0,0,0,0,0,0,0,0.160997732,Engaged
+558439,Rambabu N,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,4 - 5 Years,rambabu.n@catalysts.org,0.415816327,0,0.2,0,1,0.066666667,1,0,0,0,0,0,0,0.160827664,Engaged
+558666,Raghu M N,Male,0,#N/A,Swasti,2 - 3 Years,mn.raghu@catalysts.org,0.481502478,0,0,0,0,0,0,0,0,0,0,0,0,0.160500826,Engaged
+558537,Ballabi Manjul,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,ballabi@catalysts.org,0.481446343,0,0,0,0,0,0,0,0,0,0,0,0,0.160482114,Engaged
+558320,Sugato Sarkar,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,3 - 4 Years,sugato@catalysts.org,0.463824641,0,0,0,0,0,0,0,0,0,0,0,0,0.154608214,Engaged
+558319,Samrat Sarkar,Male,0,#N/A,Swasti,3 - 4 Years,samrat@catalysts.org,0.427521626,0,0.1,0,1,0.033333333,1,2,1,0.003401361,0.5,0,0.00085034,0.153901766,Engaged
+558281,Ramya M,Female,0,#N/A,Swasti,3 - 4 Years,ramya.m@catalysts.org,0.460600907,0,0,0,0,0,0,0,0,0,0,0,0,0.153533636,Engaged
+558329,Vivekanandan V,Male,0,#N/A,Vrutti,1 - 2 Years,vivek@catalysts.org,0.459750567,0,0,0,0,0,0,0,0,0,0,0,0,0.153250189,Engaged
+558275,Purnima Jagtiani,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,1 - 2 Years,purnima.j@catalysts.org,0.457868481,0,0,0,0,0,0,0,0,0,0,0,0,0.152622827,Engaged
+558300,Santosh C,Male,0,#N/A,Swasti,4 - 5 Years,santosh.c@catalysts.org,0.451695956,0,0,0,0,0,0,0,0,0,0,0,0,0.150565319,Engaged
+558315,Ramesh Parida,Male,0,#N/A,Swasti,15 Years+,rameshparida1977@gmail.com,0.450891912,0,0,0,0,0,0,1,1,0.002267574,0.25,0,0.000283447,0.150391786,Engaged
+558376,Tedadoddi Mahesh,Male,0,#N/A,Vrutti,2 - 3 Years,mahesh.t@catalysts.org,0.368480726,0.075,0.15,0,1,0.075,2,1,1,0.002267574,0.25,0,0.000283447,0.147921391,Less Engaged
+558317,Sandip Pattanayak,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,15 Years+,sandip@catalysts.org,0.443159486,0,0,0,0,0,0,0,0,0,0,0,0,0.147719829,Less Engaged
+558397,Sathiyaraju M,Male,0,#N/A,Vrutti,2 - 3 Years,msathiyaraju@gmail.com,0.442035147,0,0,0,0,0,0,0,0,0,0,0,0,0.147345049,Less Engaged
+558288,Preeta Raghunathan,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,preeta@catalysts.org,0.438208617,0,0,0,0,0,0,0,0,0,0,0,0,0.146069539,Less Engaged
+558390,Rathika R,Female,0,#N/A,Vrutti,2 - 3 Years,rathikahanumithran@gmail.com,0.4281935,0,0,0,0,0,0,0,0,0,0,0,0,0.142731167,Less Engaged
+558602,Raghu Kiran,Male,0,#N/A,Swasti,Less than 1 Year,raghu.kiran@catalysts.org,0.425547997,0,0,0,0,0,0,1,0,0.001133787,0.25,0,0.000141723,0.141896573,Less Engaged
+558335,Anshu Sharma,Male,0,#N/A,GREEN Foundation,2 - 3 Years,anshu.s@catalysts.org,0.422267574,0,0,0,0,0,0,0,0,0,0,0,0,0.140755858,Less Engaged
+558313,Bhaskar Nayak,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,6 - 10  Years,bhaskarn@catalysts.org,0.419690098,0,0,0,0,0,0,0,0,0,0,0,0,0.139896699,Less Engaged
+558489,Sagunthala R,Female,0,#N/A,Vrutti,2 - 3 Years,sagunthala.vrutti@gmail.com,0.41893424,0,0,0,0,0,0,0,0,0,0,0,0,0.139644747,Less Engaged
+558326,Irudhaya Rani,Female,0,#N/A,Vrutti,2 - 3 Years,rani.i@catalysts.org,0.418178382,0,0,0,0,0,0,0,0,0,0,0,0,0.139392794,Less Engaged
+558517,Vijayalakshmie K,Female,0,#N/A,Swasti,4 - 5 Years,vijayalakshmie@catalysts.org,0.417842446,0,0,0,0,0,0,1,1,0.002267574,0.25,0,0.000283447,0.139375297,Less Engaged
+558279,Shama Karkal,Female,0,#N/A,Swasti,15 Years+,shama@catalysts.org,0.413761338,0,0,0,0,0,0,0,0,0,0,0,0,0.137920446,Less Engaged
+558303,Kallan Gowda,Male,0,#N/A,Swasti,6 - 10  Years,kallan@catalysts.org,0.389195956,0,0,0,0,0,0,0,0,0,0,0,0,0.129731985,Less Engaged
+558373,Priyanka Kandimalla,Female,0,#N/A,Vrutti,Less than 1 Year,priyankakandimalla07@gmail.com,0.360260771,0,0.075,0,1,0.025,1,1,1,0.002267574,0.25,0,0.000283447,0.128514739,Less Engaged
+558564,Mehtab Khanum,Female,0,#N/A,Swasti,2 - 3 Years,mehtab@catalysts.org,0.375755858,0,0,0,0,0,0,1,0,0.001133787,0.125,0,7.09E-05,0.125275573,Less Engaged
+558344,Amrit Kumar,Male,0,#N/A,Swasti,1 - 2 Years,amrit.s@catalysts.org,0.365215232,0,0,0,0,0,0,2,2,0.004535147,0.5,0,0.001133787,0.12211634,Less Engaged
+558312,Mohammad Asrar Naveed,Male,0,#N/A,Vrutti,2 - 3 Years,asrar@catalysts.org,0.358000756,0,0,0,0,0,0,0,0,0,0,0,0,0.119333585,Less Engaged
+558348,Abhishek Tiwari,Male,0,#N/A,Swasti,2 - 3 Years,abhishek.t@catalysts.org,0.334845049,0,0,0,0,0,0,0,0,0,0,0,0,0.111615016,Less Engaged
+558466,Vijay Kumar,Male,0,#N/A,Swasti,2 - 3 Years,vk8600373@gmail.com,0.334845049,0,0,0,0,0,0,0,0,0,0,0,0,0.111615016,Less Engaged
+558264,Harish Kumar,Male,0,#N/A,Vrutti,Less than 1 Year,harishkumar2023p@gmail.com,0.334089191,0,0,0,0,0,0,0,0,0,0,0,0,0.111363064,Less Engaged
+558265,Dinesh Kumar,Male,0,#N/A,Vrutti,1 - 2 Years,dineshthakur12532@gmail.com,0.334089191,0,0,0,0,0,0,0,0,0,0,0,0,0.111363064,Less Engaged
+558292,Bhagya Vathi,Female,0,#N/A,ICF India,2 - 3 Years,bhagya.vathi@catalysts.org,0.334089191,0,0,0,0,0,0,0,0,0,0,0,0,0.111363064,Less Engaged
+558360,Vinuthashree H.K,Female,0,#N/A,Vrutti,1 - 2 Years,vinuthashree@catalysts.org,0.334089191,0,0,0,0,0,0,0,0,0,0,0,0,0.111363064,Less Engaged
+558402,Ravindra Kamble,Male,0,#N/A,Vrutti,2 - 3 Years,ravindra.k@catalysts.org,0.334089191,0,0,0,0,0,0,0,0,0,0,0,0,0.111363064,Less Engaged
+558394,Praveen Raj Perumal,Male,0,#N/A,Vrutti,Less than 1 Year,rajkingrs337@gmail.com,0.294690098,0,0,0,0,0,0,0,0,0,0,0,0,0.098230033,Less Engaged
+558346,Shankar Pathak,Male,0,#N/A,Swasti,6 - 10  Years,pathakajal28@gmail.com,0.289304611,0,0,0,0,0,0,0,0,0,0,0,0,0.09643487,Less Engaged
+558364,Rajesh Kannan S,Male,0,#N/A,GREEN Foundation,6 - 10  Years,rajesh@greenfoundation.in,0.289304611,0,0,0,0,0,0,0,0,0,0,0,0,0.09643487,Less Engaged
+558389,Yalini K,Female,0,#N/A,Vrutti,3 - 4 Years,kulendhranyalini@gmail.com,0.251511716,0,0,0,0,0,0,0,0,0,0,0,0,0.083837239,Less Engaged
+558391,Palanimalar .,Female,0,#N/A,Vrutti,1 - 2 Years,palanimalar.kpapcl@gmail.com,0.251511716,0,0,0,0,0,0,0,0,0,0,0,0,0.083837239,Less Engaged
+558324,Rashmi Rekha Samal,Female,0,#N/A,Swasti,Less than 1 Year,rashmi.s@catalysts.org,0.250755858,0,0,0,0,0,0,0,0,0,0,0,0,0.083585286,Less Engaged
+558410,Dipti Mali,Female,0,#N/A,Vrutti,2 - 3 Years,deepti121093@gmail.com,0.250755858,0,0,0,0,0,0,0,0,0,0,0,0,0.083585286,Less Engaged
+558318,Balachandra R,Male,0,#N/A,GREEN Foundation,2 - 3 Years,balachandra.r@catalysts.org,0.209845049,0,0,0,0,0,0,0,0,0,0,0,0,0.06994835,Less Engaged
+558345,Arun Kumar,Male,0,#N/A,Swasti,3 - 4 Years,arun.k@catalysts.org,0.168178382,0,0,0,0,0,0,0,0,0,0,0,0,0.056059461,Less Engaged
+558258,Binali Suhandani,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,binali@catalysts.org,0.126511716,0,0,0,0,0,0,0,0,0,0,0,0,0.042170572,Less Engaged
+558406,Yella Venkateshwarlu,Male,0,#N/A,Vrutti,Less than 1 Year,venkateshwarlu@catalysts.org,0.084089191,0,0,0,0,0,0,0,0,0,0,0,0,0.02802973,Less Engaged
+558327,Shalini .,Female,0,#N/A,Vrutti,1 - 2 Years,shalini@catalysts.org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558268,Sumitha B,Female,0,#N/A,Vrutti,Less than 1 Year,sumitha.adss@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558277,Bhavana K,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,Less than 1 Year,bhavana.k@catalysts.org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558282,Susheela M,Female,0,#N/A,Catalyst Management Services Pvt. Ltd.,2 - 3 Years,susheelam@democatalysts.org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558293,Tirupatamma Venkataitah,Female,0,#N/A,Vrutti,Less than 1 Year,tirupathamma@catalysts.org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558306,Ramakrishna K,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,15 Years+,krama01061979@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558362,Prajwal B R,Male,0,#N/A,Vrutti,1 - 2 Years,prajugowdapraju96@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558363,Chandraiah C S,Male,0,#N/A,Vrutti,Less than 1 Year,chandrucs875@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558316,Parvathagouda Patil,Male,0,#N/A,Catalyst Management Services Pvt. Ltd.,Less than 1 Year,parvathagouda@catalysts.org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558331,Anu J,Other,0,#N/A,Vrutti,1 - 2 Years,anuborn2winvp@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558332,Vijesh Bhade,Male,0,#N/A,GREEN Foundation,1 - 2 Years,vijeshb98@gmil.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558333,Chandrapal Kakade,Male,0,#N/A,GREEN Foundation,1 - 2 Years,chandrapal@catalysts.org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558334,Munnalal Katiya,Male,0,#N/A,GREEN Foundation,1 - 2 Years,munnalal.vrutti@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558351,Archana N,Female,0,#N/A,Swasti,1 - 2 Years,archana@catalysts.org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558356,Vijaylaxmi V,Female,0,#N/A,Vrutti,Less than 1 Year,vijaylaxmivputti@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558359,Shivanand Kote,Male,0,#N/A,Vrutti,2 - 3 Years,shivanandkote@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558361,Lavanya L,Female,0,#N/A,Vrutti,Less than 1 Year,l65338251@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558365,Nagarathna T R,Male,0,#N/A,Vrutti,1 - 2 Years,nagarathnamanju242@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558366,Vishvanath T.S.,Male,0,#N/A,Vrutti,1 - 2 Years,vishvanath21174@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558367,Kamlesh Kumar Shori,Male,0,#N/A,Vrutti,1 - 2 Years,kamleshshori37@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558370,Sneha R,Female,0,#N/A,Swasti,Less than 1 Year,sneha.r@catalysts.org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558371,Prasad Viraktamatha,Male,0,#N/A,Vrutti,3 - 4 Years,virakthmathprasad@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558372,Dayanand U,Male,0,#N/A,Vrutti,Less than 1 Year,dayu02061994@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558374,Sunil K,Male,0,#N/A,Vrutti,2 - 3 Years,johnsunil707@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558395,Bharath R,Male,0,#N/A,Vrutti,Less than 1 Year,bharath123456@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558401,Suvarna Thakare,Female,0,#N/A,Vrutti,1 - 2 Years,suvarnathakare26@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558403,Avinash Merya,Male,0,#N/A,Vrutti,1 - 2 Years,mis.talasari@catalysts.org,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558404,Harish Rajesh,Male,0,#N/A,Vrutti,1 - 2 Years,harish.dhodi@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558405,Sharmika J,Other,0,#N/A,Vrutti,Less than 1 Year,sharmikakhan@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558411,Preshila Patkar,Female,0,#N/A,Vrutti,1 - 2 Years,preshilapatkar@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558412,Mayuri Shelar,Female,0,#N/A,Vrutti,2 - 3 Years,shelarmayuri58@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
+558414,Nilesh Sadu,Male,0,#N/A,Vrutti,1 - 2 Years,nil.jadhav6803@gmail.com,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Less Engaged
